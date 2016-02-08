@@ -12,9 +12,9 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="action_settings">Настройки</string>
     <string name="end">Выйти</string>
     <!-- Close Drawer -->
-    <string name="closeDrawer">Navigation View</string>
+    <string name="closeDrawer">Закрыть меню</string>
     <!-- Open Drawer -->
-    <string name="openDrawer">Open Left Drawer</string>
+    <string name="openDrawer">Открыть меню</string>
     
     <!-- Close The App -->
     <string name="exit">Закрыть</string>
@@ -435,24 +435,24 @@ Copyright notice must remain here if you're using any part of this code.-->
    	
     
      <!-- Bottom Section of Credits-->
-    <string name="hardware_acceleration">Hardware Acceleration</string> 
-    <string name="credits_settings">Credits</string>
-    <string name="preference_category7">Customizations</string>
-    <string name="preference_about_category">About</string>
-    <string name="preference_set_category">All Set?</string>
-    <string name="preference_donate_category">Purchase Folio Key</string>
-    <string name="preference_rest_category">Reset Folio To Default Settings</string>
-    <string name="preference_category15">Folio Layout Settings</string>
-    <string name="preference_facebook_layouts">Facebook Layout Settings</string>
+    <string name="hardware_acceleration">Аппаратное ускорение</string> 
+    <string name="credits_settings">Благодарности</string>
+    <string name="preference_category7">Настройки</string>
+    <string name="preference_about_category">О приложении</string>
+    <string name="preference_set_category">Всё готово?</string>
+    <string name="preference_donate_category">Купить Folio Key</string>
+    <string name="preference_rest_category">Сбросить Folio к стандартным настройкам</string>
+    <string name="preference_category15">Настройки макета Folio</string>
+    <string name="preference_facebook_layouts">Настройки макета Facebook</string>
     
-    <string name="fixed_nav">Fixed Facebook bar</string>
-    <string name="fixed_nav_description">Facebook navigation bar always on top.</string>
+    <string name="fixed_nav">Фиксированная панель Facebook</string>
+    <string name="fixed_nav_description"Панель Facebook всегда находится наверху.</string>
     
-    <string name="credits_licenses">Tap here to read more about the licences used in Folio.</string>
-    <string name="credits_licenses_description">Open source software licenses</string>
-    <string name="clear_cache">Clear Data</string>  
+    <string name="credits_licenses">Нажмите здесь, чтобы узнать больше о лицензиях, использованных в Folio.</string>
+    <string name="credits_licenses_description">Лицензии ПО с открытым исходным кодом</string>
+    <string name="clear_cache">Очистить данные</string>  
     
-    <string name="clear_cache_title">Are you sure?</string> 
+    <string name="clear_cache_title"Вы уверены?</string> 
     <string name="clear_cache_message">Tap OK to clear Folio\'s data. This will also log you out.</string> 
       
     <string name="clear_cache_description">Clear Folio\'s data. This will also log you out.</string> <!-- You MUST include the \ in your translation. For example... ***You\'re**** is spelled like that -->
