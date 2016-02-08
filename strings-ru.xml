@@ -40,7 +40,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="loading_video">Загрузка.</string>
     
     <string name="hide_sponsored">Скрыть спонсированные посты</string>
-    <string name="hide_sponsored_description">Удалит рекламу Facebook &amp; спонсированные посты.</string>
+    <string name="hide_sponsored_description">Удалить рекламу Facebook &amp; спонсированные посты.</string>
     
     
     
@@ -160,7 +160,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="facebook_app_id">691828467548980</string>
     <string name="get_started">Войти с Facebooks</string>
     <string name="send_feedback">Обратная связь Folio</string>
-    <string name="ok">Хорошо</string>
+    <string name="ok">ОК</string>
     <string name="applying_changes">Очистка кеша. Перезапустите Folio.</string>
       
     
@@ -446,28 +446,28 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="preference_facebook_layouts">Настройки макета Facebook</string>
     
     <string name="fixed_nav">Фиксированная панель Facebook</string>
-    <string name="fixed_nav_description"Панель Facebook всегда находится наверху.</string>
+    <string name="fixed_nav_description">Панель Facebook всегда находится наверху.</string>
     
     <string name="credits_licenses">Нажмите здесь, чтобы узнать больше о лицензиях, использованных в Folio.</string>
     <string name="credits_licenses_description">Лицензии ПО с открытым исходным кодом</string>
     <string name="clear_cache">Очистить данные</string>  
     
-    <string name="clear_cache_title"Вы уверены?</string> 
-    <string name="clear_cache_message">Tap OK to clear Folio\'s data. This will also log you out.</string> 
+    <string name="clear_cache_title">Вы уверены?</string> 
+    <string name="clear_cache_message">Нажмите ОК, чтобы отчистить данные Folio. Вы также выйдете из аккаунта.</string> 
       
-    <string name="clear_cache_description">Clear Folio\'s data. This will also log you out.</string> <!-- You MUST include the \ in your translation. For example... ***You\'re**** is spelled like that -->
+    <string name="clear_cache_description">Отчистить данные Folio. Вы также выйдете из аккаунта.</string> <!-- You MUST include the \ in your translation. For example... ***You\'re**** is spelled like that -->
         
-    <string name="preferences_feedback">Send Feedback</string>
-    <string name="preferences_feedback_description">Have a question? Need help? Tap here to send us an email.</string>
+    <string name="preferences_feedback">Отправить отзыв</string>
+    <string name="preferences_feedback_description">Есть вопрос? Нужна помощь? Нажмите здесь, чтобы отправить нам письмо.</string>
     <string name="preferences_feedback_link" translatable="true">mailto:creativetrendzappsllc@gmail.com?Subject=Folio</string>
     
-    <string name="preferences_rate">Help Others By Rating Folio</string>
-    <string name="preferences_rate_hint">Rate Folio on Google Play</string>
-    <string name="preferences_rate_description">Rate Folio</string>
+    <string name="preferences_rate">Помогите другим, оценив Folio</string>
+    <string name="preferences_rate_hint">Оценить Folio на Google Play</string>
+    <string name="preferences_rate_description">Оценить Folio</string>
     
       
-    <string name="preferences_auto">Auto Scroll</string>
-    <string name="preferences_auto_hint">Auto scroll to hide Facebook\'s menu?</string>
+    <string name="preferences_auto">Авто-прокрутка</string>
+    <string name="preferences_auto_hint">Включить авто-прокрутку, чтобы спрятать панель Facebook?</string>
     
     
     
@@ -475,96 +475,99 @@ Copyright notice must remain here if you're using any part of this code.-->
     
     <!-- All About Credits -->
         
-    <string name="preference_category6">Credits</string>
+    <string name="preference_category6">Благодарности</string>
     
     <string name="credits_bejan">Bejan Kanga</string>
-    <string name="credits_bejan_description">For launcher icons for Folio &amp; Folio Messenger. Also some navigation drawer icons. Also help with development on portions of the original app FrontPage. Tap here to visit his website.</string>
+    <string name="credits_bejan_description">За иконку для Folio &amp; Folio Messenger. Тажке за некоторые иконки для меню. Также за помощь с разработкой приложения FrontPage. Нажмите, чтобы посетить его сайт.</string>
     <string name="credits_bejan_link" translatable="true">http://bejank.com</string>
     
     <string name="credits_nam">Nam Nghiem</string>
-    <string name="credits_nam_description">For help with cover photos. Check out his Facebook client.</string>
+    <string name="credits_nam_description">За помощь с обложками фотографий. Оцените его клиент для Facebook.</string>
     <string name="credits_nam_link" translatable="true">https://play.google.com/store/apps/details?id=com.nam.fbwrapper&amp;hl=en</string>
     
     <string name="credits_dan">Daniel Velazco/nJames Vento</string>
-    <string name="credits_dan_description">For use of the full screen video playback webview code found in Tinfoil. Checkout Tinfoil for Facebook.</string>
+    <string name="credits_dan_description">За использование кода для показа полноэкранного видео из Tinfoil. Оцените Tinfoil для Facebook.</string>
     <string name="credits_dan_link" translatable="true">https://play.google.com/store/apps/details?id=com.danvelazco.fbwrapper&amp;hl=en</string>
     
         
-    <string name="credits_beta">Facebook Group</string>
-    <string name="credits_beta_description">Join Creative Trends Beta on Facebook.</string>
+    <string name="credits_beta">Группа в Facebook</string>
+    <string name="credits_beta_description">Вступите в Creative Trends Beta на Facebook.</string>
     <string name="credits_beta_link" translatable="true">https://www.facebook.com/groups/creativtrendz/</string>
     
     
     <string name="credits_google_plus">Google+</string>
-    <string name="credits_google_plus_description">Join Folio for Facebook on Google+</string>
+    <string name="credits_google_plus_description">Вступите в Folio for Facebook на Google+</string>
     <string name="credits_google_plus_link" translatable="true">https://plus.google.com/communities/116238843585710616103</string>
     
     
     
     
     <string name="credits_janae">Janae</string>
-    <string name="credits_janae_description">For sharing an interest in technology and being patient while daddy worked.</string>
+    <string name="credits_janae_description">За проявление интереса к технологиям и хорошее поведение, пока папа работал.</string>
     
     
     <string name="credits_tykeshia">Tykeshia</string>
-    <string name="credits_tykeshia_description">For being supportive and encouraging throughout the past years. Thanks for letting me borrow the laptop.</string>
+    <string name="credits_tykeshia_description">За поддержку в последние несколько лет. Спасибо, что разрешил мне позаимствовать ноутбук.</string>
     
     
     <string name="credits_facebook">Facebook Inc.</string>    
-    <string name="credits_facebook_description">For their new graph api. Also for their mobile site which is used in Folio. </string>
+    <string name="credits_facebook_description">За новое Graph API. А также за возможность использовать мобильную версию сайта в Folio. </string>
     <string name="credits_facebook_link" translatable="true">http://m.facebook.com</string>
     
     <string name="credits_google">Google Inc.</string>
-    <string name="credits_google_description">For AppCompat v7, also for open sourcing your Material Design icons.</string>
+    <string name="credits_google_description">За AppCompat v7, а также за свободные иконки в стиле Material Design.</string>
     <string name="credits_google_link" translatable="true">https://developer.android.com/tools/support-library/features.html</string>
     
     
-    <string name="preference_category10">Open Source Software Used</string>
-    <string name="preference_category8">Open Source Licenses</string> 
+    <string name="preference_category10">Использовано ПО с открытым исходным кодом.</string>
+    <string name="preference_category8">Лицензии ПО с открытым исходным кодом</string> 
      
     <string name="credits_tray">Tray Preferences</string>
     <string name="credits_tray_description">Tap here to fork the project.</string>
     <string name="credits_tray_link" translatable="true">https://github.com/grandcentrix/tray</string>
     
     
-    <string name="credits_material">Folio for Facebook</string>
-    <string name="credits_material_description">Tap here to fork the project.</string>
+    <string name="credits_material">Folio для Facebook</string>
+    <string name="credits_material_description">Нажмите здаесь, чтобы скопировать проект на GitHub.</string>
     <string name="credits_material_link" translatable="true">https://github.com/creativetrendsapps/folioforfacebook</string>
     
         
     <string name="credits_preferences">Material Preference Compat</string>
-    <string name="credits_preferences_description">Tap here to fork the project.</string>
+    <string name="credits_preferences_description">Нажмите здаесь, чтобы скопировать проект на GitHub.</string>
     <string name="credits_preferences_link" translatable="true">https://github.com/fython/MaterialPreferenceCompat</string>
     
     
     
     <!-- All About Translations  -->
     
-    <string name="preference_category12">Translations</string> 
+    <string name="preference_category12">Переводы</string> 
            
     <string name="credits_italian">Fabio Catinella</string>
-    <string name="credits_italian_description">Italiano</string>
+    <string name="credits_italian_description">Итальянский</string>
     
     <string name="credits_spanish">Marco Rubio Asensio</string>
-    <string name="credits_spanish_description">Español</string>
+    <string name="credits_spanish_description">Испанский</string>
     
     <string name="credits_german">Clemens Corell</string>
-    <string name="credits_german_description">Deutsch</string>
+    <string name="credits_german_description">Немецкий</string>
     
     <string name="credits_brazilian">Vinícius Rubens Pedrinho</string>
-    <string name="credits_brazilian_description">Português de Brasil</string>
+    <string name="credits_brazilian_description">Бразильский португальский</string>
     
     <string name="credits_turk">Mehmet Çalışkan</string>
-    <string name="credits_turk_description">Türkçe</string>
+    <string name="credits_turk_description">Турецкий</string>
     
     <string name="credits_fren">Jean Philippe</string>
-    <string name="credits_fren_description">Français</string>
+    <string name="credits_fren_description">Франзуский</string>
     
     <string name="credits_pol">seba112</string>
-    <string name="credits_pol_description">Polski</string>
+    <string name="credits_pol_description">Польский</string>
+	
+    <string name="credits_rus">Артём Петров</string>
+    <string name="credits_rus_description">Русский</string>
     
-    <string name="help_trans">Help Translate</string>
-    <string name="help_trans_hint">Tap to help translate Folio into your language.</string>
+    <string name="help_trans">Помогите перевести приложение</string>
+    <string name="help_trans_hint">Нажмите здесь, чтобы помочь перевести Folio на ваш язык.</string>
    
     
         
@@ -575,36 +578,36 @@ Copyright notice must remain here if you're using any part of this code.-->
     
     <!-- All About Notifications -->
     
-    <string name="preference_category5">General</string>
-    <string name="activate_notifications">Facebook Notifications</string>
-    <string name="activate_messages">Message Notifications</string>
-    <string name="activate_friends">Friend Request Notifications</string>    
-    <string name="notifications_service_created">Notifications Activated</string>
-    <string name="notifications_settings">Notifications</string>
-    <string name="all_notifications">View Notifications</string>
-    <string name="all_messages">View Messages</string>
-    <string name="all_requests">View Friend Requests</string>
-    <string name="notification_sound">Notification Sound</string>
-    <string name="notification_sound_description">Current: \u0020</string>
-    <string name="message_sound">Message Notification Sound</string>
-    <string name="message_sound_description">Current: \u0020</string>
-    <string name="silent">No Sound</string>
-    <string name="vibrate">Vibrate</string>
-    <string name="led_light">Notification LED</string>
-    <string name="led_color">LED light color</string>
-    <string name="led_color_description">Current LED color: %s.</string>
-    <string name="notifications_extra">Additional</string>
-    <string name="notifications_everywhere">Always Be Notified</string>
-    <string name="notifications_everywhere_description">Even when you\'re using Folio.</string>
+    <string name="preference_category5">Основное</string>
+    <string name="activate_notifications">Уведомления Facebook</string>
+    <string name="activate_messages">Уведомления о сообщения</string>
+    <string name="activate_friends">Уведомления о запросах в друзья</string>    
+    <string name="notifications_service_created">Уведомления активированы</string>
+    <string name="notifications_settings">Уведомления</string>
+    <string name="all_notifications">Просмотреть уведомления</string>
+    <string name="all_messages">Просмотреть сообщения</string>
+    <string name="all_requests">Просмотреть запросы в друзья</string>
+    <string name="notification_sound">Звук уведомлений</string>
+    <string name="notification_sound_description">Текущий: \u0020</string>
+    <string name="message_sound">Звук уведомления о новом сообщении</string>
+    <string name="message_sound_description">Текущий: \u0020</string>
+    <string name="silent">Нет звука</string>
+    <string name="vibrate">Вибрация</string>
+    <string name="led_light">Уведомление LED</string>
+    <string name="led_color">Цвет светодиода</string>
+    <string name="led_color_description">Текущий цвет светодиода: %s.</string>
+    <string name="notifications_extra">Дополнительно</string>
+    <string name="notifications_everywhere">Всегда получать уведомления</string>
+    <string name="notifications_everywhere_description">Даже когда вы не используете Folio.</string>
     <string name="get_key">https://play.google.com/store/apps/details?id=com.creativetrends.folio.app.key</string>
     
    	
 	
-	<string name="friend_request">&#160;new friend request</string>
-	<string name="friend_requests">&#160;new friend requests</string>
+	<string name="friend_request">&#160;новый запрос в друзья</string>
+	<string name="friend_requests">&#160;новые запросы в друзья</string>
 	
-	<string name="new_notification">&#160;new notification</string>
-	<string name="new_notifications">&#160;new notifications</string>
+	<string name="new_notification">&#160;новое уведомление</string>
+	<string name="new_notifications">&#160;новые уведомления</string>
 	
 		
 	
@@ -612,65 +615,65 @@ Copyright notice must remain here if you're using any part of this code.-->
     <!-- ALL ABOUT THEMES-->
     
     
-    <string name="choose_font_facebook">Facebook Font Size</string>
-    <string name="choose_font_facebook_hint">Current font size: %s</string>
+    <string name="choose_font_facebook">Размер шрифта Facebook</string>
+    <string name="choose_font_facebook_hint">Текущий размер шрифта: %s</string>
     
     
-   <string name="preference_category3">Facebook Themes</string>
+   <string name="preference_category3">Темы Facebook</string>
     
-    <string name="dark_theme">Black Theme</string>
+    <string name="dark_theme">Чёрная тема</string>
     
-    <string name="dark_theme_description">Turn on black theme.</string>
+    <string name="dark_theme_description">Включить чёрную тему.</string>
     
-    <string name="red_theme">Android Studio Theme</string>
+    <string name="red_theme">Тема Android Studio</string>
     
-    <string name="red_theme_description">Turn on Dracula theme.</string>
+    <string name="red_theme_description">Включить тему Дракула.</string>
      
     
           
           
    	<string-array name="pref_theme_entries">
-        <item>Folio Theme</item>
-        <item>Folio Theme Dark Drawer</item>
-        <item>Pink Theme</item>
-        <item>Pink Theme Dark Drawer</item>
-        <item>Purple Theme</item>
-        <item>Purple Theme Dark Drawer</item>
-        <item>Deep Purple Theme</item>
-        <item>Deep Purple Theme Dark Drawer</item>
-        <item>Dark Theme</item>
-        <item>Orange Theme</item>
-        <item>Orange Theme Dark Drawer</item>
-        <item>Deep Orange Theme</item>
-        <item>Deep Orange Theme Dark Drawer</item>
-        <item>Falcon Theme</item>
-        <item>Falcon Theme Dark Drawer</item>
-        <item>Lime Theme</item>
-        <item>Lime Theme Dark Drawer</item>
-        <item>Green Theme</item>
-        <item>Green Theme Dark Drawer</item>
-        <item>Light Green Theme</item>
-        <item>Light Green Theme Dark Drawer</item>
-        <item>Amber Theme</item>
-        <item>Amber Theme Dark Drawer</item>
-        <item>Yellow Theme</item>
-        <item>Yellow Theme Dark Drawer</item>
-        <item>Red Theme</item>
-        <item>Red Theme Dark Drawer</item>
-        <item>Blue Theme</item>
-        <item>Blue Theme Dark Drawer</item>
-        <item>Light Blue Theme</item>
-        <item>Light Blue Theme Dark Drawer</item>
-        <item>Cyan Theme</item>
-        <item>Cyan Theme Dark Drawer</item>
-        <item>Teal Theme</item>
-        <item>Teal Theme Dark Drawer</item>
-        <item>Brown Theme</item>
-        <item>Brown Theme Dark Drawer</item>
-        <item>Grey Theme</item>
-        <item>Grey Theme Dark Drawer</item>
-        <item>Blue Grey Theme</item>
-        <item>Blue Grey Theme Dark Drawer</item>
+        <item>Тема Folio</item>
+        <item>Тема Folio с чёрным меню</item>
+        <item>Розовая тема</item>
+        <item>Розовая тема с чёрным меню</item>
+        <item>Пурпурная тема</item>
+        <item>Пурпурная тема с чёрным меню</item>
+        <item>Тёмно-фиолетовая тема</item>
+        <item>Тёмно-фиолетовая тема с чёрным меню</item>
+        <item>Тёмная тема</item>
+        <item>Оранжевая тема</item>
+        <item>Оранжевая тема с чёрным меню</item>
+        <item>Тёмно-оранжевая тема</item>
+        <item>Тёмно-оранжевая тема с чёрным меню</item>
+        <item>Тема Falcon</item>
+        <item>Тема Falcon с чёрным меню</item>
+        <item>Лаймовая тема</item>
+        <item>Лаймовая тема с чёрным меню</item>
+        <item>Зелёная тема</item>
+        <item>Зелёная тема с чёрным меню</item>
+        <item>Светло-зелёная тема</item>
+        <item> с чёрным меню</item>
+        <item>Янтарная тема</item>
+        <item>Янтарная тема с чёрным меню</item>
+        <item>Жёлтая тема</item>
+        <item>Жёлтая тема с чёрным меню</item>
+        <item>Красная тема</item>
+        <item>Красная тема с чёрным меню</item>
+        <item>Синяя тема</item>
+        <item>Синяя тема с чёрным меню</item>
+        <item>Светло-синяя тема</item>
+        <item>Светло-синяя тема с чёрным меню</item>
+        <item>Голубая тема</item>
+        <item>Голубая тема с чёрным меню</item>
+        <item>Бирюзово-голубая тема</item>
+        <item>Бирюзово-голубая тема с чёрным меню</item>
+        <item>Коричневая тема</item>
+        <item>Коричневая тема с чёрным меню</item>
+        <item>Серая тема</item>
+        <item>Серая тема с чёрным меню</item>
+        <item>Серо-голубая тема</item>
+        <item>Серо-голубая тема с чёрным меню</item>
         
             
         
@@ -681,58 +684,58 @@ Copyright notice must remain here if you're using any part of this code.-->
    	   
    	
    	<string-array name="pref_theme_fb_entries">
-    <item>Facebook Theme</item>              
-   	<item>Black Theme</item>
-   	<item>Dracula Theme</item>   
+    <item>Тема Facebook</item>              
+   	<item>Чёрная тема</item>
+   	<item>Тема Дракула</item>   
         
     </string-array>
 
    	
-   	<string name="quick_bar">QuickBar</string>
-   	<string name="quick_bar_hint">Show Folio QuickBar?</string>
+   	<string name="quick_bar">Быстрая панель</string>
+   	<string name="quick_bar_hint">Отображать быструю панель Folio?</string>
    	
-   	<string name="quick_bar_on">QuickBar is now on.</string>
+   	<string name="quick_bar_on">Быстрая панель включена.</string>
    	
-   	<string name="quick_bar_off">QuickBar is now off.</string>
+   	<string name="quick_bar_off">Быстрая панель отключена.</string>
    	
    	       
-    <string name="no_images">Disable Images</string>
-    <string name="no_images_hint">Reduce data usage be removing images.</string>
+    <string name="no_images">Отключить изображения</string>
+    <string name="no_images_hint">Снизить потребление трафика, убрав изображения.</string>
       
         
-    <string name="hide_bar">Remove Facebook Bar</string>
+    <string name="hide_bar">Убрать панель Facebook</string>
     
     
-    <string name="choose_theme_folio">Choose App Theme</string>
-    <string name="choose_theme_facebook">Choose Facebook Theme</string>
-    <string name="choose_theme_folio_hint">Current theme: %s</string>
+    <string name="choose_theme_folio">Выбрать тему приложения</string>
+    <string name="choose_theme_facebook">Выбрать тему Facebook</string>
+    <string name="choose_theme_folio_hint">Текущая тема: %s</string>
       
     
-    <string name="hidden_bar">Hide Toolbar</string>
+    <string name="hidden_bar">Спрятать панель инструментов</string>
     
-   <string name="sync_problem">Awe snap! That\'s an error. Folio couldn\'t get your notifications. Please close and reopen Folio.</string>
+   <string name="sync_problem">О ужас! Это ошибка. Folio не может получить ваши уведомления. Закройти и заново откройте Folio.</string>
    
-   <string name="you_have_one_message">You have 1 new message</string>
-  <string name="you_have_n_messages">You have %d new messages</string>
+   <string name="you_have_one_message">У вас 1 новое сообщение</string>
+  <string name="you_have_n_messages">У вас %d новых сообщений</string>
   
-  	<string name="file_logger">Save logs to a file</string>
-    <string name="file_logger_description">Save Notification Service logs to an external memory. It needs a storage permission.</string>
-    <string name="file_logger_needs_permission">No access to external storage. Log cannot be saved.</string>
+  	<string name="file_logger">Сохранить логи в файл</string>
+    <string name="file_logger_description">Сохранить логи сервиса уведомлений на внешнюю память. Необходимо право.</string>
+    <string name="file_logger_needs_permission">Нет доступа к внешней памяти. Лог не сохранён.</string>
     
     
          
-    <string name="interval_pref">Badge &amp; Sync Service</string>
-    <string name="interval_pref_description">Notifications &amp; badges will be checked every %s.</string>
+    <string name="interval_pref">Сервис синхронизации и значков</string>
+    <string name="interval_pref_description">Уведомления и значки будут проверены каждые %s.</string>
           
                  
         <string-array name="update_interval">
-       	<item>5 seconds</item>
-        <item>2 minutes</item>
-        <item>5 minutes</item>
-        <item>30 minutes</item>
-        <item>1 hour</item>
-        <item>3 hours</item>
-        <item>6 hours</item>        
+       	<item>5 секунд</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>30 минут</item>
+        <item>1 час</item>
+        <item>3 часа</item>
+        <item>6 часов</item>        
     </string-array>
     
     <string-array name="update_interval_values">
@@ -747,29 +750,29 @@ Copyright notice must remain here if you're using any part of this code.-->
 
     
     
-    <string name="not_valid_title">Not Valid</string>
-    <string name="not_valid_message">This version of Folio is not from the Play Store and will not function.</string>
+    <string name="not_valid_title">Не действительно</string>
+    <string name="not_valid_message">Эта версия Folio установлена не из Google Play и не будет функционировать.</string>
     <string name="get_from_play">Google Play</string>
     
-    <string name="people_you">People You May Know</string>
-    <string name="people_you_hint">Hide people you may know. (BETA)</string>
+    <string name="people_you">Вы можете их знать</string>
+    <string name="people_you_hint">Спрятать "Вы можете их знать". (БЕТА)</string>
     
-    <string name="download_manager_disabled">DownloadManager is disabled. Please enable it.</string>
-    <string name="cannot_access_storage">No access to external storage</string>
-    <string name="file_cannot_be_saved">A file cannot be saved</string>
-    <string name="camera_exception">Problems with a camera</string>
+    <string name="download_manager_disabled">DownloadManager отключен. Пожалуйста включить его.</string>
+    <string name="cannot_access_storage">Нет доступа к внешней памяти</string>
+    <string name="file_cannot_be_saved">Файл не может быть сохранён</string>
+    <string name="camera_exception">Проблемы с камерой</string>
     
     <!-- Folio Favorites -->
     
-    <string name="open_link_title">Open Links</string>
-    <string name="open_link_hint">Open external links in Folio</string>
+    <string name="open_link_title">Открывать ссылки</string>
+    <string name="open_link_hint">Открывать сторонние ссылки в Folio</string>
     
-    <string name="addPage">Add to Favorites</string>
-    <string name="removePage">Remove remove from Favorites</string>
+    <string name="addPage">Добавить в избранное</string>
+    <string name="removePage">Удалить из избранных</string>
     
-    <string name="remember_title">News Feed Position (Beta)</string>
-    <string name="remember_hint">Remember your News Feed position.</string>
-    <string name="faq">FAQ\'s</string>
+    <string name="remember_title">Позиция новостной ленты (БЕТА)</string>
+    <string name="remember_hint">Сохранять позицию новостной ленты.</string>
+    <string name="faq">ЧаВо</string>
     
           
 </resources>
