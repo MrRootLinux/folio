@@ -685,9 +685,10 @@ Copyright notice must remain here if you're using any part of this code.-->
    	   
    	
    	<string-array name="pref_theme_fb_entries">
-    <item>Tema Facebook</item>              
-    <item>Tema Scuro</item>
-   	<item>Tema Dracula</item>   
+        <item>Tema Facebook</item>              
+        <item>Tema Scuro</item>
+   	<item>Tema Dracula</item>
+   	<item>Tema Folio</item>
         
     </string-array>
 
