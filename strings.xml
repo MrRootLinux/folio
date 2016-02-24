@@ -821,7 +821,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="folio_lock_hint">Use your fingerprint (on supported devices), or a passcode to lock/unlock Folio?</string>
     
     <string name="folio_message_bubble">Enable Folio MessageBubble\'s</string>
-    <string name="folio_message_bubble">Stay in the converstation with MessageBubble\'s?</string>
+    <string name="folio_message_bubble_hint">Stay in the converstation with MessageBubble\'s?</string>
     
     <string name="folio_video">Upload video</string>
     <string name="folio_checkins">Check-in</string>
