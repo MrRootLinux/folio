@@ -821,7 +821,7 @@ Copyright notice must remain here if you're using any part of this code.-->
 	<string name="offline_folio_hint">Сохранить данные для включения оффлайн режима? Это создаст личный файл в Folio для включения оффлайн режима.</string>
     
     <string name="folio_lock">Включить блокировку Folio</string>
-    <string name="folio_lock_hint">Использовать отпечаток пальца (на поддерживаемых устройствах), или код для блокировки/разблокировки Folio?</string>
+    <string name="folio_lock_hint">Использовать отпечаток пальца (на поддерживаемых устройствах) или код для блокировки/разблокировки Folio?</string>
     
     <string name="folio_message_bubble">Включить Folio MessageBubble\'s</string>
     <string name="folio_message_bubble_hint">Оставайтесь в переписке с MessageBubble\'s?</string>
