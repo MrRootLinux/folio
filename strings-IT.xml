@@ -685,9 +685,10 @@ Copyright notice must remain here if you're using any part of this code.-->
    	   
    	
    	<string-array name="pref_theme_fb_entries">
-    <item>Tema Facebook</item>              
-    <item>Tema Scuro</item>
-   	<item>Tema Dracula</item>   
+        <item>Tema Facebook</item>              
+        <item>Tema Scuro</item>
+   	<item>Tema Dracula</item>
+   	<item>Tema Folio</item>
         
     </string-array>
 
@@ -768,8 +769,6 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="addPage">Aggiungi ai Preferiti</string>
     <string name="removePage">Rimuovi dai Preferiti</string>
     
-    <string name="open_link_title">Apertura Link</string>
-    <string name="open_link_hint">Apri i Link esterni direttamente da Folio</string>
     
     <string name="remember_title">Posizione News Feed (Beta)</string>
     <string name="remember_hint">Ricorda la posizione del tuo News Feed.</string>
@@ -778,6 +777,23 @@ Copyright notice must remain here if you're using any part of this code.-->
     
     <string name="notify_log">Log delle Notifiche</string>
     <string name="notify_log_hint">Salvare il log di diagnostica delle notifiche? Questo non permette a Folio di raccogliere dati personali.</string>
+   
+     <string name="open_link_title">Chrome Custom Tabs</string>
+     <string name="open_link_hint">Aprire i link esterni con le Chrome Custom Tabs? Chrome deve essere installato.</string>
     
+     <string name="offline_folio">Abilita Modalità Offline</string>
+     <string name="offline_folio_hint">Risparmia dati abilitando la modalità offline. Per permettere questa funzione, Folio creerà un file privato.</string>
+       
+     
+     <string name="folio_lock">Abilita Folio Lock</string>
+     <string name="folio_lock_hint">Usa la tua impronta digitale (solo dispositivi supportati), o una password per sbloccare/bloccare Folio?</string>
+     
+     <string name="folio_message_bubble">Abilita Folio MessageBubble\'s</string>
+     <string name="folio_message_bubble_hint">Usare i MessageBubble per restare nelle conversazioni ?</string>
+     
+     <string name="folio_video">Carica video</string>
+     <string name="folio_checkins">Check-in</string>
+     <string name="folio_tags">Tagga un Amico</string>
+     <string name="folio_images">Carica immagine dalla Galleria</string>
           
 </resources>
