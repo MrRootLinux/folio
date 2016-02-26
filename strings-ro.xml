@@ -583,7 +583,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="btn_chioce">Luat (%d)</string>
     
     <string name="offline_folio">Activeza modul de lucru deconectat</string>
-    <string name="offline_folio_hint">Salvez datele tale de navigare pentru modeul de lucru deconectat? Aceasta creaza un fisier personal pentru activearea acestui mod.</string>
+    <string name="offline_folio_hint">Salvez datele tale de navigare pentru modul de lucru deconectat? Acest mod foloseste un fisier personal.</string>
     
     <string name="folio_lock">Activeaza modul de securitate Folio</string>
     <string name="folio_lock_hint">Folosesti amprenta ta (pe modelele suportate) sau un cod pentru a bloca/debloca Folio?</string>
@@ -593,6 +593,6 @@ Copyright notice must remain here if you're using any part of this code.-->
     
     <string name="folio_video">Incarca fisier video</string>
     <string name="folio_checkins">Localizeaza-te</string>
-    <string name="folio_tags">Arata un prieten</string>
+    <string name="folio_tags">Marcheaza un prieten</string>
     <string name="folio_images">Incarca imagine din galeria de poze</string>
 </resources>
