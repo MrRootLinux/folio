@@ -156,7 +156,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     
     <!-- Save Image On Long Press -->
     
-    
+    <string name="facebook_app_id">691828467548980</string>  
     <string name="get_started">Intra in cont cu datele Facebook</string>
     <string name="send_feedback">Parerea ta despre Folio</string>
     <string name="ok">OK</string>
@@ -389,7 +389,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="notifications_everywhere">Sa fiu mereu notificat</string>
     <string name="notifications_everywhere_description">Chiar si cand folosesc Folio.</string>
     <string name="get_key">https://play.google.com/store/apps/details?id=com.creativetrends.folio.app.key</string>
-    
+    <string name="get_app_store">https://play.google.com/store/apps/details?id=com.creativetrends.folio.app</string>    
    	
 	
 	<string name="friend_request">&#160;cerere noua de prietenie</string>
