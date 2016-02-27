@@ -746,14 +746,14 @@ Copyright notice must remain here if you're using any part of this code.-->
     
     
          
-    <string name="interval_pref">Badge &amp; Sync Service</string>
-    <string name="interval_pref_description">Notifications &amp; badges will be checked every %s.</string>
+    <string name="interval_pref">Sync Service</string>
+    <string name="interval_pref_description">Notifications will be checked every %s.</string>
           
                  
         <string-array name="update_interval">
-       	<item>5 seconds</item>
-        <item>2 minutes</item>
+        <item>1 minute</item>
         <item>5 minutes</item>
+        <item>15 minutes</item>
         <item>30 minutes</item>
         <item>1 hour</item>
         <item>3 hours</item>
@@ -761,29 +761,15 @@ Copyright notice must remain here if you're using any part of this code.-->
     </string-array>
     
     <string-array name="update_interval_values">
-        <item>5000</item>
-        <item>120000</item>
+        <item>60000</item>
         <item>300000</item>
+        <item>900000</item>
         <item>1800000</item>
         <item>3600000</item>
         <item>10800000</item>
         <item>21600000</item>        
     </string-array>
 
-    
-    <string name="pro_user1">97211866bf42497</string>
-    <string name="pro_user2">2c35cb58ac254dc9</string>
-    <string name="pro_user3">f4025684dd48e3e4</string>    
-    <string name="pro_user4">e79d95f674464bb5</string>
-    <string name="pro_user5">3413eb7ff69ac193</string>
-    <string name="pro_user6">d5d0fdb1de928058</string>
-    <string name="pro_user7">7166dc0614ceab13</string>
-    <string name="pro_user8">fd82839ef512e3f4</string>
-    <string name="pro_user9">e9a6b0a417036de4</string>
-    <string name="pro_user10">d622c9dcc1fa6b3aa</string>
-    <string name="pro_user11">cf2487c5ff09bf67</string>
-    <string name="pro_user12">e61317caba3a8259</string>
-    <string name="pro_user13">e9a6b0a417036de4</string>
     
     <string name="not_valid_title">Not Valid</string>
     <string name="not_valid_message">This version of Folio is not from the Play Store and will not function.</string>
@@ -818,7 +804,6 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="offline_folio_hint">Save your browsing data to enable offline mode? This writes a private file to enable offline mode in Folio.</string>
     
     <string name="folio_lock">Enable Folio Lock</string>
-    <string name="folio_lock_hint">Use your fingerprint (on supported devices), or a passcode to lock/unlock Folio?</string>
     
     <string name="folio_message_bubble">Enable Folio MessageBubbles</string>
     <string name="folio_message_bubble_hint">Stay in the converstation with MessageBubbles?</string>
