@@ -40,7 +40,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="loading_video">Загрузка.</string>
     
     <string name="hide_sponsored">Скрыть спонсированные посты</string>
-    <string name="hide_sponsored_description">Удалить рекламу Facebook &amp; спонсированные посты.</string>
+    <string name="hide_sponsored_description">Удалить рекламу Facebook и спонсированные посты.</string>
     
     
     
@@ -447,7 +447,7 @@ Copyright notice must remain here if you're using any part of this code.-->
    
     
     
-    <string name="donate_jorell">Поддержите разработку &amp; Разблокировать функции</string>
+    <string name="donate_jorell">Поддержите разработку и разблокируйте функции</string>
     <string name="donate_jorell_description">Помогите мне продолжить разработку.</string>
     <string name="donate_jorell_link" translatable="true">http://paypal.me/creativetrends</string>
     <string name="donate_jorell_about">Купить мне кофе</string>
@@ -498,7 +498,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="preference_category6">Благодарности</string>
     
     <string name="credits_bejan">Bejan Kanga</string>
-    <string name="credits_bejan_description">За иконку для Folio &amp; Folio Messenger. Тажке за некоторые иконки для меню. Также за помощь с разработкой приложения FrontPage. Нажмите, чтобы посетить его сайт.</string>
+    <string name="credits_bejan_description">За иконку для Folio и Folio Messenger. Тажке за некоторые иконки для меню и помощь с разработкой приложения FrontPage. Нажмите, чтобы посетить его сайт.</string>
     <string name="credits_bejan_link" translatable="true">http://bejank.com</string>
     
     <string name="credits_nam">Nam Nghiem</string>
@@ -749,14 +749,14 @@ Copyright notice must remain here if you're using any part of this code.-->
     
     
          
-    <string name="interval_pref">Сервис синхронизации и значков</string>
-    <string name="interval_pref_description">Уведомления и значки будут проверены каждые %s.</string>
+    <string name="interval_pref">Сервис синхронизации</string>
+    <string name="interval_pref_description">Уведомления будут проверяться каждые %s.</string>
           
                  
         <string-array name="update_interval">
-       	<item>5 секунд</item>
-        <item>2 минуты</item>
+        <item>1 минута</item>
         <item>5 минут</item>
+        <item>15 минут</item>
         <item>30 минут</item>
         <item>1 час</item>
         <item>3 часа</item>
@@ -764,29 +764,15 @@ Copyright notice must remain here if you're using any part of this code.-->
     </string-array>
     
     <string-array name="update_interval_values">
-        <item>5000</item>
-        <item>120000</item>
+        <item>60000</item>
         <item>300000</item>
+        <item>900000</item>
         <item>1800000</item>
         <item>3600000</item>
         <item>10800000</item>
-        <item>21600000</item>        
+        <item>21600000</item>         
     </string-array>
 	
-
-    <string name="pro_user1">97211866bf42497</string>
-    <string name="pro_user2">2c35cb58ac254dc9</string>
-    <string name="pro_user3">f4025684dd48e3e4</string>    
-    <string name="pro_user4">e79d95f674464bb5</string>
-    <string name="pro_user5">3413eb7ff69ac193</string>
-    <string name="pro_user6">d5d0fdb1de928058</string>
-    <string name="pro_user7">7166dc0614ceab13</string>
-    <string name="pro_user8">fd82839ef512e3f4</string>
-    <string name="pro_user9">e9a6b0a417036de4</string>
-    <string name="pro_user10">d622c9dcc1fa6b3aa</string>
-    <string name="pro_user11">cf2487c5ff09bf67</string>
-    <string name="pro_user12">e61317caba3a8259</string>
-    <string name="pro_user13">e9a6b0a417036de4</string>
 	
     <string name="not_valid_title">Не действительно</string>
     <string name="not_valid_message">Эта версия Folio установлена не из Google Play и не будет функционировать.</string>
@@ -821,15 +807,21 @@ Copyright notice must remain here if you're using any part of this code.-->
 	<string name="offline_folio_hint">Сохранить данные для включения оффлайн режима? Это создаст личный файл в Folio для включения оффлайн режима.</string>
     
     <string name="folio_lock">Включить блокировку Folio</string>
-    <string name="folio_lock_hint">Использовать отпечаток пальца (на поддерживаемых устройствах) или код для блокировки/разблокировки Folio?</string>
     
-    <string name="folio_message_bubble">Включить Folio MessageBubble\'s</string>
-    <string name="folio_message_bubble_hint">Оставайтесь в переписке с MessageBubble\'s?</string>
+    <string name="folio_message_bubble">Включить Folio MessageBubbles</string>
+    <string name="folio_message_bubble_hint">Оставайтесь в переписке с MessageBubbles?</string>
     
     <string name="folio_video">Загрузить видео</string>
     <string name="folio_checkins">Отметки</string>
     <string name="folio_tags">Отметить друга</string>
     <string name="folio_images">Загрузить изображение из галереи</string>
+	
     
-          
+	<string name="unlock_text">Пожалуйста, введите код блокировки</string>
+    <string name="lock_abort">Отмена</string>
+    <string name="lock_pin">код блокировки</string>
+    <string name="lock_text">Защитите Folio с помощью кода блокировки</string>
+    <string name="lock_confirm">подтвердить код блокировки</string>
+    <string name="lock_wrong">Неверный код блокировки</string>
+    <string name="lock_empty">Код блокировки не может быть пустым</string>
 </resources>
