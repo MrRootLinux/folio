@@ -827,4 +827,12 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="folio_checkins">Check-in</string>
     <string name="folio_tags">Označite prijatelja</string>
     <string name="folio_images">Upload-ajte sliku iz galerije</string>
+
+    <string name="unlock_text">Molimo unesite vaš kod za zaključavanje</string>
+    <string name="lock_abort">Odustani</string>
+    <string name="lock_pin">pristupni kod</string>
+    <string name="lock_text">Osigurajte Folio with sa kodom za zaključavanje</string>
+    <string name="lock_confirm">potvrdite kod za zaključavanje</string>
+    <string name="lock_wrong">Kod je netočan</string>
+    <string name="lock_empty">Kod ne može biti prazan</string>
 </resources>
