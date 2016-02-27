@@ -87,9 +87,9 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="addons">Social Add-ons</string>
     <string name="addons_hint">Twitter richiede la Twitter Add-on Key. Tutte le altre richiedono la Folio Key.</string>
     <string name="enable_twitter">Attiva Twitter</string>
-    <string name="enable_google">Attiva Google+</string>
-    <string name="enable_instagram">Attiva Instagram</string>
-    <string name="enable_tumblr">Attiva Tumblr</string>
+    <string name="enable_google">Nascondi Google+</string>
+    <string name="enable_instagram">Nascondi Instagram</string>
+    <string name="enable_tumblr">Nascondi Tumblr</string>
     
     <!-- Removals -->
     <string name="navigation_pref">Collegamenti Drawer Laterale</string>
