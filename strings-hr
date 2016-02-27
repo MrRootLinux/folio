@@ -830,8 +830,8 @@ Copyright notice must remain here if you're using any part of this code.-->
 
     <string name="unlock_text">Molimo unesite vaš kod za zaključavanje</string>
     <string name="lock_abort">Odustani</string>
-    <string name="lock_pin">pristupni kod</string>
-    <string name="lock_text">Osigurajte Folio with sa kodom za zaključavanje</string>
+    <string name="lock_pin">kod za zaključavanje</string>
+    <string name="lock_text">Osigurajte Folio sa kodom za zaključavanje</string>
     <string name="lock_confirm">potvrdite kod za zaključavanje</string>
     <string name="lock_wrong">Kod je netočan</string>
     <string name="lock_empty">Kod ne može biti prazan</string>
