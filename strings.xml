@@ -820,12 +820,21 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="folio_lock">Enable Folio Lock</string>
     <string name="folio_lock_hint">Use your fingerprint (on supported devices), or a passcode to lock/unlock Folio?</string>
     
-    <string name="folio_message_bubble">Enable Folio MessageBubble\'s</string>
-    <string name="folio_message_bubble_hint">Stay in the converstation with MessageBubble\'s?</string>
+    <string name="folio_message_bubble">Enable Folio MessageBubbles</string>
+    <string name="folio_message_bubble_hint">Stay in the converstation with MessageBubbles?</string>
     
     <string name="folio_video">Upload video</string>
     <string name="folio_checkins">Check-in</string>
     <string name="folio_tags">Tag a friend</string>
     <string name="folio_images">Upload image from gallery</string>
+    
+    
+    <string name="unlock_text">Please Enter Lock Code</string>
+    <string name="lock_abort">Cancel</string>
+    <string name="lock_pin">lock code</string>
+    <string name="lock_text">Secure Folio with a lock code</string>
+    <string name="lock_confirm">confirm lock code</string>
+    <string name="lock_wrong">Lock code incorrect</string>
+    <string name="lock_empty">Lock code cannot be blank</string>
 </resources>
 
