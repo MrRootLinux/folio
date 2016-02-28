@@ -141,7 +141,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="fb_chat">Активные друзья</string>
     <string name="fb_recent">Новейщее</string>
     <string name="refresh">Обновить</string>
-    <string name="notifications">Увдеомления</string>
+    <string name="notifications">Уведомления</string>
     <string name="notifications_about_hint">Настроить уведомления.</string>
     <string name="search">Поиск Facebook</string>
     
