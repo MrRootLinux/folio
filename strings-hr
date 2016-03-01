@@ -12,18 +12,18 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="action_settings">Postavke</string>
     <string name="end">LOdjava</string>
     <!-- Close Drawer -->
-    <string name="closeDrawer">Navigacijski Pogled</string>
+    <string name="closeDrawer">Navigacijski pogled</string>
     <!-- Open Drawer -->
-    <string name="openDrawer">Otvori Lijevu Ladicu</string>
+    <string name="openDrawer">Otvori lijevu ladicu</string>
     
     <!-- Close The App -->
     <string name="exit">Izlaz</string>
     <!-- Save Image On Long Press -->
-    <string name="customize_folio">Prilagodi Folio</string>
+    <string name="customize_folio">Prilagodite Folio</string>
     <string name="customize_folio_hint">Promjenite izgled i raspored.</string>
-    <string name="tap_to_set">Dodirnite da biste primijenili promjene</string>
+    <string name="tap_to_set">Dodirnite za primjenu promjena</string>
    
-    <string name="status_updated">Status updated.</string>
+    <string name="status_updated">Status je ažuriran.</string>
     
     
     <!-- FAB LABELS -->
@@ -39,7 +39,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     
     <string name="loading_video">Učitavanje.</string>
     
-    <string name="hide_sponsored">Sakrij Sponzorirane Objave</string>
+    <string name="hide_sponsored">Sakrij sponzorirane objave</string>
     <string name="hide_sponsored_description">Uklonite Facebookove reklame &amp; sponzorirane objave.</string>
     
     
@@ -50,10 +50,10 @@ Copyright notice must remain here if you're using any part of this code.-->
     
     <!-- Folio Drawer -->
     <string name="quickaccess">Brzi pristup</string>
-    <string name="newsfeed">Najnovije</string>
-    <string name="trending">Popularno</string>
+    <string name="newsfeed">Najnovije vijesti</string>
+    <string name="trending">Popularne vijesti</string>
     <string name="messages">Poruke</string>
-    <string name="topnews">Najzanimljivije Priče</string>
+    <string name="topnews">Najzanimljivije vijesti</string>
     <string name="fbmenu">Facebook Izbornik</string>
     
     <string name="faved">Favoriti</string>
@@ -64,7 +64,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     
     <string name="reminders">Podsjetnici</string>
     <string name="events">Događaji</string>
-    <string name="onthisday">Na Današnji Dan</string>
+    <string name="onthisday">Na današnji dan</string>
     <string name="saved">Spremljeno</string>
     
     <string name="prefs">Postavke</string>
@@ -88,35 +88,35 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="addons">Društveni dodaci</string>
     <string name="addons_hint">Twitter zahtjeva ključ za Twitter dodatak.</string>
     <string name="enable_twitter">Omogući Twitter</string>
-    <string name="enable_google">Omogući Google+</string>
-    <string name="enable_instagram">Omogući Instagram</string>
-    <string name="enable_tumblr">Omogući Tumblr</string>
+    <string name="enable_google">Ukloni Google+</string>
+    <string name="enable_instagram">Ukloni Instagram</string>
+    <string name="enable_tumblr">Ukloni Tumblr</string>
     
     <!-- Removals -->
     <string name="navigation_pref">Stavke iz navigacijske ladice</string>
     <string name="navigation_pref_hint">Prilagodite navigacijsku ladicu tako da uklonite stavke koje ne koristite u Foliu.</string>
     <string name="recent_nav">Ukloni Najnovije vijesti</string>
-    <string name="top_nav">Ukloni Najzanimljivije priče</string>
+    <string name="top_nav">Ukloni Najzanimljivije vijesti</string>
     <string name="facebook_nav">Ukloni Poruke</string>
-    <string name="trending_nav">Ukloni Popularno</string>
+    <string name="trending_nav">Ukloni Popularne vijesti</string>
     <string name="friends_nav">Ukloni Prijatelje</string>
     <string name="groups_nav">Ukloni Grupe</string>
     <string name="pages_nav">Ukloni Stranice</string>
     <string name="photos_nav">Ukloni Fotografije</string>
     <string name="events_nav">Ukloni Događaje</string>
-    <string name="onday_nav">Ukloni Na Današnji Dan</string>
+    <string name="onday_nav">Ukloni Na današnji dan</string>
     <string name="saved_nav">Ukloni Spremljeno</string>
     
     <!-- News Feed -->
     <string name="news_feed_preferences">Postavke Novosti</string>
-    <string name="top_always">Najzanimljivije Priče</string>
-    <string name="top_always_hint">Uvijek prikaži Najzanimljivije Priče pri pokretanju Folia.</string>
+    <string name="top_always">Najzanimljivije vijesti</string>
+    <string name="top_always_hint">Uvijek prikaži Najzanimljivije vijesti pri pokretanju Folia.</string>
     
     <!-- Fonts -->
     <string name="font_preference">Postavke Facebookovog Fonta</string>
-    <string name="larger_font_hint">Increase readability by enlarging fonts throughout Facebook. Disable other sizes for your font preference to work.</string>
+    <string name="larger_font_hint">Poboljšajte čitljivost povećavanjem fonta na Facebooku. Disable other sizes for your font preference to work.</string>
     <string name="font_set">Pritisnite kako bi ponovno pokrenuli Folio s odabranom veličinom fonta.</string>
-    <string name="default_font">Zadana Font</string>
+    <string name="default_font">Zadani Font</string>
     <string name="medium_font">Srednji Font</string>
     <string name="large_font">Veliki Font</string>
     <string name="xl_font">Ekstra Veliki Font</string>
@@ -136,9 +136,9 @@ Copyright notice must remain here if you're using any part of this code.-->
     
     
     <!-- Overflow Menu Folio -->
-    <string name="top">Skok Na Vrh</string>
+    <string name="top">Skok na vrh</string>
     <string name="fb_settings">Facebook Postavke</string>
-    <string name="fb_chat">Aktivni Prijatelji</string>
+    <string name="fb_chat">Aktivni prijatelji</string>
     <string name="fb_recent">Najnovije</string>
     <string name="refresh">Osvježi</string>
     <string name="notifications">Obavijesti</string>
@@ -150,7 +150,7 @@ Copyright notice must remain here if you're using any part of this code.-->
 	
     <!-- Save Image On Long Press  & Sharing-->
     <string name="saveFolio">Spremi Sliku</string>
-    <string name="txt_save_image_success">Spremanje Slike.</string>
+    <string name="txt_save_image_success">Spremanje slike.</string>
     <string name="txt_save_image_failed">Nije moguće spremiti sliku</string>
     <string name="share_action">Podijeli trenutnu stranicu</string>
     <string name="share_action_subject">Facebook stranica</string>
@@ -159,7 +159,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     
     <string name="facebook_app_id">691828467548980</string>
     <string name="get_started">Prijavite se sa Facebookom</string>
-    <string name="send_feedback">Folio Povratne Informacije</string>
+    <string name="send_feedback">Folio povratne informacije</string>
     <string name="ok">OK</string>
     <string name="applying_changes">Čišćenje privremene memorije. Ponovno pokrenite Folio.</string>
       
@@ -411,7 +411,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     
      <!-- OK To Translate-->
     
-	<string name="about_change_log"><b>Folio Popis Promjena</b></string>
+	<string name="about_change_log"><b>Folio popis promjena</b></string>
    
 	<string name="copyright">\u00A9 2015 Creative Trends Apps LLC.</string>
 	<string name="allrights">Sva prava pridržana.</string>
@@ -422,18 +422,18 @@ Copyright notice must remain here if you're using any part of this code.-->
     
      <!-- Random Strings Part 1 -->
      
-    <string name="fb_offline">Špgreška</string>    
+    <string name="fb_offline">Pogreška</string>    
     <string name="hello"></string>    
     <string name="cancelled">Otkazano</string>    
     <string name="permission_not_granted">Nije moguće izvršiti odabranu radnju zato jer dozvole nisu dopuštene.</string>
-    <string name="image_chooser">Birač Slika</string>
-    <string name="loading_link">Otvaranje Sa Foliom</string>   
+    <string name="image_chooser">Birač slika</string>
+    <string name="loading_link">Otvaranje s Foliom</string>   
     <string name="author">Napravio Jorell Rutledge</string>    
     <string name="title_activity_settings">Postavke</string>        
     <string name="title_activity_about">O Foliu</string>
     <string name="title_activity_about_hint">Naučite o različitim libraries-ima korištenim u Foliu. Dohvatite njihov izvor na GitHubu, pridružite nam se na Facebooku i više.</string>
     
-    <string name="email_author">Pošalji Povratne Informacije</string>    
+    <string name="email_author">Pošalji povratne informacije</string>    
     <string name="choose_email_client">Odaberi e-mail klijent</string>    
     <string name="no_network">Niste online.</string> <!-- You MUST include the \ in your translation. For example... ***You'\re**** is spelled like that -->    
        
@@ -447,7 +447,7 @@ Copyright notice must remain here if you're using any part of this code.-->
    
     
     
-    <string name="donate_jorell">Podržite Razvoj &amp; Otključajte Značajke</string>
+    <string name="donate_jorell">Podržite razvoj &amp; Otključajte značajke</string>
     <string name="donate_jorell_description">Pomozite mi da ostanem budan kako bi mogao kodirati.</string>
     <string name="donate_jorell_link" translatable="true">http://paypal.me/creativetrends</string>
     <string name="donate_jorell_about">Kupite mi kavu</string>
@@ -460,15 +460,15 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="preference_category7">Prilagođavanje</string>
     <string name="preference_about_category">O</string>
     <string name="preference_set_category">Sve spremno?</string>
-    <string name="preference_donate_category">Kupite Folio Ključ</string>
-    <string name="preference_rest_category">Vratite Folio Na Početne Postavke</string>
-    <string name="preference_category15">Postavke Folio Izgleda</string>
-    <string name="preference_facebook_layouts">Postavke Facebook Izgleda</string>
+    <string name="preference_donate_category">Kupite Folio ključ</string>
+    <string name="preference_rest_category">Vratite Folio na početne postavke</string>
+    <string name="preference_category15">Postavke Folio izgleda</string>
+    <string name="preference_facebook_layouts">Postavke Facebook izgleda</string>
     
     <string name="fixed_nav">Fiksirana Facebook traka</string>
     <string name="fixed_nav_description">Facebook navigacijska traka uvijek na vrhu.</string>
     
-    <string name="credits_licenses">Tap here to read more about the licences used in Folio.</string>
+    <string name="credits_licenses">Pritisnite ovdje kako bi ste pročitali više o licencama korištenim u Foliu.</string>
     <string name="credits_licenses_description">Open source software licenses</string>
     <string name="clear_cache">Clear Data</string>  
     
@@ -477,16 +477,16 @@ Copyright notice must remain here if you're using any part of this code.-->
       
     <string name="clear_cache_description">Uklonite Foliove podatke. Ovo će vas odjaviti.</string> <!-- You MUST include the \ in your translation. For example... ***You\'re**** is spelled like that -->
         
-    <string name="preferences_feedback">Pošalji Povratne Informacijek</string>
+    <string name="preferences_feedback">Pošalji povratne informacijek</string>
     <string name="preferences_feedback_description">Imate pitanja? Trebate pomoć? Pritisnite ovdje kako bi nam poslali email.</string>
     <string name="preferences_feedback_link" translatable="true">mailto:creativetrendzappsllc@gmail.com?Subject=Folio</string>
     
-    <string name="preferences_rate">Pomozite Ostalima Ocjenjivanjem Folia</string>
+    <string name="preferences_rate">Pomozite ostalima ocjenjivanjem Folia</string>
     <string name="preferences_rate_hint">Ocjenite Folio na Google Playu</string>
     <string name="preferences_rate_description">Ocjenite Folio</string>
     
       
-    <string name="preferences_auto">Automatsko Listanje</string>
+    <string name="preferences_auto">Automatsko listanje</string>
     <string name="preferences_auto_hint">Automatsko listanje kako bi sakrili Facebookov izbornik?</string>
     
     
@@ -511,12 +511,12 @@ Copyright notice must remain here if you're using any part of this code.-->
     
         
     <string name="credits_beta">Facebook Grupa</string>
-    <string name="credits_beta_description">Pridružite se Creative Trends Beti na Facebooku.</string>
+    <string name="credits_beta_description">Pridružite se Creative Trends Beta grupi na Facebooku.</string>
     <string name="credits_beta_link" translatable="true">https://www.facebook.com/groups/creativtrendz/</string>
     
     
     <string name="credits_google_plus">Google+</string>
-    <string name="credits_google_plus_description">Pridrućite se Foliu za Facebook na Google+</string>
+    <string name="credits_google_plus_description">Pridružite se Foliu za Facebook na Google+</string>
     <string name="credits_google_plus_link" translatable="true">https://plus.google.com/communities/116238843585710616103</string>
     
     
@@ -586,7 +586,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="credits_rom">Iulian Szidelo</string>
     <string name="credits_rom_description">Rumunjski</string>
     
-    <string name="help_trans">Pomozite Prevesti</string>
+    <string name="help_trans">Pomozite u prijevodu</string>
     <string name="help_trans_hint">Pritisnite kako bi preveli Folio na svoj jezik.</string>
    
     
@@ -599,25 +599,25 @@ Copyright notice must remain here if you're using any part of this code.-->
     <!-- All About Notifications -->
     
     <string name="preference_category5">Općenito</string>
-    <string name="activate_notifications">Facebook Obavijesti</string>
-    <string name="activate_messages">Obavijesti Za Poruke</string>
-    <string name="activate_friends">Obavijste O Zahtjevima Za Prijateljstvo</string>    
-    <string name="notifications_service_created">Obavijesti Aktivirane</string>
+    <string name="activate_notifications">Facebook obavijesti</string>
+    <string name="activate_messages">Obavijesti za poruke</string>
+    <string name="activate_friends">Obavijesti o zahtjevima za prijateljstvo</string>    
+    <string name="notifications_service_created">Obavijesti su aktivirane</string>
     <string name="notifications_settings">Obavijesti</string>
-    <string name="all_notifications">Prikaži Obavijesti</string>
-    <string name="all_messages">Prikaži Poruke</string>
-    <string name="all_requests">Prikaži Zahtjeve Za Prijateljstvo</string>
-    <string name="notification_sound">Zvuk Obavijesti</string>
+    <string name="all_notifications">Prikaži obavijesti</string>
+    <string name="all_messages">Prikaži poruke</string>
+    <string name="all_requests">Prikaži zahtjeve za prijateljstvo</string>
+    <string name="notification_sound">Zvuk obavijesti</string>
     <string name="notification_sound_description">Trenutni: \u0020</string>
-    <string name="message_sound">Zvuk Obavijesti Poruke</string>
-    <string name="message_sound_description">Trenutno: \u0020</string>
-    <string name="silent">Bez Zvuka</string>
+    <string name="message_sound">Zvuk obavijesti poruke</string>
+    <string name="message_sound_description">Trenutni: \u0020</string>
+    <string name="silent">Bez zvuka</string>
     <string name="vibrate">Vibracija</string>
-    <string name="led_light">LED Za Obavijesti</string>
+    <string name="led_light">LED za obavijesti</string>
     <string name="led_color">Boja LED svjetla</string>
     <string name="led_color_description">Trenutna LED boja: %s.</string>
     <string name="notifications_extra">Dodatno</string>
-    <string name="notifications_everywhere">Uvijek Budite Obaviješteni</string>
+    <string name="notifications_everywhere">Uvijek budite obaviješteni</string>
     <string name="notifications_everywhere_description">Čak iako koristite Folio.</string>
     <string name="get_key">https://play.google.com/store/apps/details?id=com.creativetrends.folio.app.key</string>
     <string name="get_app_store">https://play.google.com/store/apps/details?id=com.creativetrends.folio.app</string>
@@ -636,8 +636,8 @@ Copyright notice must remain here if you're using any part of this code.-->
     <!-- ALL ABOUT THEMES-->
     
     
-    <string name="choose_font_facebook">Veličina Facebookovog Fonta</string>
-    <string name="choose_font_facebook_hint">trenutna veličina fonta: %s</string>
+    <string name="choose_font_facebook">Veličina Facebookovog fonta</string>
+    <string name="choose_font_facebook_hint">Trenutna veličina fonta: %s</string>
     
     
    <string name="preference_category3">Facebook Teme</string>
@@ -720,20 +720,20 @@ Copyright notice must remain here if you're using any part of this code.-->
    	<string name="quick_bar_off">QuickBar je onemogućen.</string>
    	
    	       
-    <string name="no_images">Onemogućite Slike</string>
-    <string name="no_images_hint">Smanjite upotrebu mobilnih podataka onemogučavanjem slika.</string>
+    <string name="no_images">Onemogućavanje slika</string>
+    <string name="no_images_hint">Smanjite upotrebu mobilnih podataka onemogućavanjem slika.</string>
       
         
     <string name="hide_bar">Uklonite Facebook Traku</string>
     <string name="hide_bar_hint">Kliznite od lijevog ruba zaslona kako bi pristupili Folio izborniku.</string>
     
     
-    <string name="choose_theme_folio">Odaberi Temu Aplikacije</string>
+    <string name="choose_theme_folio">Odaberite temu aplikacije</string>
     <string name="choose_theme_facebook">Odaberite Facebook Temu</string>
     <string name="choose_theme_folio_hint">Trenutna Tema: %s</string>
       
     
-    <string name="hidden_bar">Sakrijte Alatnu Traku</string>
+    <string name="hidden_bar">Sakrijte alatnu traku</string>
     
    <string name="sync_problem">Sranje! Ovo je pogreška. Folio nije mogao dohvatiti vaše obavijesti. Molimo ponovno pokrenite Folio.</string>
    
@@ -746,8 +746,8 @@ Copyright notice must remain here if you're using any part of this code.-->
     
     
          
-    <string name="interval_pref">Badge &amp; Servis za usklađivanje</string>
-    <string name="interval_pref_description">Obavijesti &amp; će biti provjerene svakih %s.</string>
+    <string name="interval_pref">Servis za usklađivanje</string>
+    <string name="interval_pref_description">Obavijesti će biti provjerene svakih %s.</string>
           
                  
        <string-array name="update_interval">
@@ -789,7 +789,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="not_valid_message">Ova verzija Folia nije sa Play Store-a i zato neće funkcionirati.</string>
     <string name="get_from_play">Google Play</string>
     
-    <string name="people_you">Ljudi Koje Možda Poznajete</string>
+    <string name="people_you">Ljudi koje možda poznajete</string>
     <string name="people_you_hint">Sakrijte ljude koje možda poznajete. (BETA)</string>
     
     <string name="download_manager_disabled">DownloadManager je onemogućen. Molimo omogućite ga.</string>
@@ -802,25 +802,25 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="open_link_title">Chrome Custom Tabovi</string>
     <string name="open_link_hint">Otvarajte vanjske poveznice sa Chrome Custom Tabovima? Chrome mora biti instaliran kako bi ovo funkcioniralo.</string>
     
-    <string name="addPage">Dodaj u  Favorite</string>
+    <string name="addPage">Dodaj u Favorite</string>
     <string name="removePage">Ukloni iz Favorita</string>
     
-    <string name="remember_title">Pozicija Vijesti (Beta)</string>
+    <string name="remember_title">Pozicija vijesti (Beta)</string>
     <string name="remember_hint">Zapamtite poziciju vaših vijesti.</string>
     <string name="faq">FAQ\'s</string>
     
-    <string name="notify_log">Zapisnik Obavijesti</string>
+    <string name="notify_log">Zapisnik obavijesti</string>
     <string name="notify_log_hint">Spremite diagnostički zapisnik obavijesti? Ovo ne dopušta Foliu da prikuplja ikakve osobne podatke.</string>
     
     <string name="btn_chioce">Odaberi(%d)</string>
     
-    <string name="offline_folio">Omogućite Izvanmrežni Način</string>
-    <string name="offline_folio_hint">Spremiti vaše podatke pregledavanja kako bi se omogućio Izvanmrežni način? Ovo će spremiti privatnu datoteku kako bi se omogućio izvanmrežni način u Foliu.</string>
+    <string name="offline_folio">Omogućite izvanmrežni način</string>
+    <string name="offline_folio_hint">Spremiti vaše podatke pregledavanja kako bi se omogućio izvanmrežni način? Ovo će spremiti privatnu datoteku kako bi se omogućio izvanmrežni način u Foliu.</string>
     
-    <string name="folio_lock">Omogućite zaključavanje Folia</string>
+    <string name="folio_lock">Zaključavanje Folia</string>
     <string name="folio_lock_hint">Iskoristite vaš otisak prsta (na podržanim uređajima), ili lozinku kako bi zaključali/otključali Folio?</string>
     
-    <string name="folio_message_bubble">Omogućite Folio Ikone za poruke</string>
+    <string name="folio_message_bubble">Omogućite Folio ikone za poruke</string>
     <string name="folio_message_bubble_hint">Ostanite u razgovoru sa Ikonama za poruke?</string>
     
     <string name="folio_video">Upload-ajte video</string>
@@ -828,11 +828,11 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="folio_tags">Označite prijatelja</string>
     <string name="folio_images">Upload-ajte sliku iz galerije</string>
 
-    <string name="unlock_text">Molimo unesite vaš kod za zaključavanje</string>
+    <string name="unlock_text">Molimo unesite vašu lozinku</string>
     <string name="lock_abort">Odustani</string>
-    <string name="lock_pin">kod za zaključavanje</string>
-    <string name="lock_text">Osigurajte Folio sa kodom za zaključavanje</string>
-    <string name="lock_confirm">potvrdite kod za zaključavanje</string>
-    <string name="lock_wrong">Kod je netočan</string>
-    <string name="lock_empty">Kod ne može biti prazan</string>
+    <string name="lock_pin">lozinka</string>
+    <string name="lock_text">Osigurajte Folio s lozinkom</string>
+    <string name="lock_confirm">potvrdite lozinku</string>
+    <string name="lock_wrong">Lozinka je netočna</string>
+    <string name="lock_empty">Lozinka ne može biti prazna</string>
 </resources>
