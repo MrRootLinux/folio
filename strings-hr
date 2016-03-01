@@ -10,7 +10,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="app_name_toolbar">Folio</string>
     <string name="app_name_about">Folio za Facebook</string>
     <string name="action_settings">Postavke</string>
-    <string name="end">LOdjava</string>
+    <string name="end">Odjava</string>
     <!-- Close Drawer -->
     <string name="closeDrawer">Navigacijski pogled</string>
     <!-- Open Drawer -->
