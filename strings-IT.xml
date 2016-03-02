@@ -469,8 +469,8 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="preferences_rate_description">Valuta Folio</string>
     
       
-    <string name="preferences_auto">Scroll Automatico</string>
-    <string name="preferences_auto_hint">Attiva per nascondere la barra di Facebook</string>
+    <string name="preferences_auto">Abilita Barra di Folio</string>
+    <string name="preferences_auto_hint">Sostituisce la barra di Facebook con quella di Folio</string>
     
     
     
@@ -712,8 +712,8 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="choose_theme_folio_hint">Tema Attuale: %s</string>
       
     
-    <string name="hidden_bar">Nascondi Toolbar</string>
-    <string name="hidden_bar_hint">Scorri dal lato sinistro per aprire il drawer di Folio.</string>
+    <string name="hidden_bar">Abilita la barra di Facebook</string>
+    <string name="hidden_bar_hint">Prima disabilita la barra di Folio per un corretto funzionamento.</string>
    <string name="sync_problem">Porca Pupazza! Si à verificato un errore. Folio non puà ricevere le tue notifiche. Per favore chiudi e riapri Folio.</string>
    
    <string name="you_have_one_message">Hai 1 nuovo messaggio</string>
