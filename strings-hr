@@ -20,7 +20,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="exit">Izlaz</string>
     <!-- Save Image On Long Press -->
     <string name="customize_folio">Prilagodite Folio</string>
-    <string name="customize_folio_hint">Promjenite izgled i raspored.</string>
+    <string name="customize_folio_hint">Promijenite izgled i raspored.</string>
     <string name="tap_to_set">Dodirnite za primjenu promjena</string>
    
     <string name="status_updated">Status je ažuriran.</string>
