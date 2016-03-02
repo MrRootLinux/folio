@@ -486,8 +486,8 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="preferences_rate_description">Rate Folio</string>
     
       
-    <string name="preferences_auto">Auto Scroll</string>
-    <string name="preferences_auto_hint">Auto scroll to hide Facebook\'s menu?</string>
+    <string name="preferences_auto">Enable Folio Toolbar</string>
+    <string name="preferences_auto_hint">This hides the Facebook Navigation Bar.</string>
     
     
     
@@ -733,7 +733,8 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="choose_theme_folio_hint">Current theme: %s</string>
       
     
-    <string name="hidden_bar">Hide Toolbar</string>
+    <string name="hidden_bar">Enable Facebook Bar</string>
+    <string name="hidden_bar_hint">Turn off Folio\'s Toolbar First.</string>
     
    <string name="sync_problem">Awe snap! That\'s an error. Folio couldn\'t get your notifications. Please close and reopen Folio.</string>
    
