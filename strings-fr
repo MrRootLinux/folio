@@ -1,4 +1,7 @@
-<resources>
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
     
 <!--Copyright (C) 2014-2015 Jorell Rutledge/Creative Trends.
 This file is originally apart of Folio for Facebook.
@@ -124,6 +127,7 @@ Copyright notice must remain here if you\'re using any part of this code.-->
     
     <string-array name="font_choice">
        	<item>Taille normal</item>
+        <item>Taille small</item>
         <item>Taille moyenne</item>
         <item>Taille grande</item>
         <item>Très grande taille</item>
@@ -186,8 +190,7 @@ Copyright notice must remain here if you\'re using any part of this code.-->
     
      <!-- Random Strings Part 1 -->
      
-    <string name="fb_offline">Erreur</string>    
-    <string name="hello"></string>    
+    <string name="fb_offline">Erreur</string>
     <string name="cancelled">Annulation</string>    
     <string name="permission_not_granted">Impossible d\'effectuer l\'action sélectionnée car les autorisations ne sont pas accordées.</string>
     <string name="image_chooser">Selecteur d\'image</string>
@@ -455,7 +458,8 @@ Copyright notice must remain here if you\'re using any part of this code.-->
    	<string-array name="pref_theme_fb_entries">
     <item>Thème Facebook</item>              
    	<item>Thème noir</item>
-   	<item>Thème Dracula</item>   
+   	<item>Thème Dracula</item>
+    <item>Thème Folio</item>
         
     </string-array>
 
@@ -497,25 +501,6 @@ Copyright notice must remain here if you\'re using any part of this code.-->
     <string name="interval_pref_description">Notifications et badges seront vérifiés chaque.</string>
           
                  
-        <string-array name="update_interval">
-       	<item>5 secondes</item>
-        <item>2 minutes</item>
-        <item>5 minutes</item>
-        <item>30 minutes</item>
-        <item>1 heure</item>
-        <item>3 heures</item>
-        <item>6 heures</item>        
-    </string-array>
-    
-    <string-array name="update_interval_values">
-        <item>5000</item>
-        <item>120000</item>
-        <item>300000</item>
-        <item>1800000</item>
-        <item>3600000</item>
-        <item>10800000</item>
-        <item>21600000</item>        
-    </string-array>
 
     
     
