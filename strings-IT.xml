@@ -182,11 +182,8 @@
 
 
 
-   
 
-    <string name="about_header">Open source licenses\nNotices for files</string>
 
-   
     <!-- OK To Translate-->
 
     <string name="copyright">\u00A9 2016 Creative Trends Apps LLC.</string>
@@ -197,7 +194,6 @@
     <!-- Random Strings Part 1 -->
 
     <string name="fb_offline">Offline</string>
-    <string name="hello"></string>
     <string name="cancelled">Annullato</string>
     <string name="permission_not_granted">Non ho i permessi per farlo.</string>
     <string name="image_chooser">Scegli immagine</string>
@@ -519,7 +515,7 @@
     <string name="interval_pref">Intervallo Sync di Contatori e Notifiche </string>
     <string name="interval_pref_description">Notifiche e Contatori saranno aggiornati ogni %s.</string>
 
-    
+
     <string name="not_valid_title">Non valido</string>
     <string name="not_valid_message">Questa versione di Folio non proviene dal Play Store pertanto non funziona.</string>
     <string name="get_from_play">Google Play</string>
