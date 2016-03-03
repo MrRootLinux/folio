@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+    
+<!--Copyright (C) 2014-2015 Jorell Rutledge/Creative Trends.
+This file is originally apart of Folio for Facebook.
+Copyright notice must remain here if you\'re using any part of this code.-->
+
+	<!-- Basic Strings -->
+    <string name="app_name">Folio</string>
+    <!-- Replaces Facebook WebView Title -->
+    <string name="app_name_toolbar">Folio</string>
+    <string name="app_name_about">Facebook için Folio</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="end">Cikis Yap</string>
+    <!-- Close Drawer -->
+    <string name="closeDrawer">Soldan Acilan Menü</string>
+    <!-- Open Drawer -->
+    <string name="openDrawer">Soldan Acilan Menü Kapatildi</string>
+    
+    <!-- Close The App -->
+    <string name="exit">Kapat</string>
+    <!-- Save Image On Long Press -->
+    <string name="customize_folio">Folio\'yu Kisisellestir</string>
+    <string name="customize_folio_hint">Gorünüsü ve düzeni degistir.</string>
+    <string name="tap_to_set">Degisiklikleri uygulamak icin dokun</string>
+   
+    <string name="status_updated">Durum güncellendi.</string>
+    
+    
+    <!-- FAB LABELS -->
+    <string name="update_status">Durum Paylas</string>
+    <string name="update_photo">Fotograf ekle</string>
+    <string name="update_share">Paylas</string>
+    
+    <string name="license_success">Temalar aktif edildi</string>
+    <string name="license_failed">Temalar devre disi birakildi</string>
+    
+    <string name="show_fab">FAB goster</string>
+    <string name="show_fab_hint">Durum paylasmak icin kullanilan bir buton gosterir. Normal düzende kullanildiginda gizlenmez. Gizlenmis Facebook Bar\'iyla kullanilirsa gizlenir. Bu ayrica Facebook temalarini ve düzenleri siler. Ayrica su an hatalidir. </string>
+    
+    <string name="loading_video">Yükleniyor.</string>
+    
+    <string name="hide_sponsored">Sponsorlu mesajlari gizle</string>
+    <string name="hide_sponsored_description">Facebook reklamlarini,sponsorlu mesajlari gizle.</string>
+    
+    
+    
+    
+    
+          
+    
+    <!-- Folio Drawer -->
+    <string name="quickaccess">Hizli Erisim</string>
+    <string name="newsfeed">En Yeniler</string>
+    <string name="trending">Popüler</string>
+    <string name="messages">Mesajlar</string>
+    <string name="topnews">Baslica Haberler</string>
+    <string name="fbmenu">Facebook Menüsü</string>
+    
+    <string name="faved">Favoriler</string>
+    <string name="friends">Arkadaslar</string>
+    <string name="groups">Gruplar</string>
+    <string name="pages">Sayfalar</string>
+    <string name="photos">Fotograflar</string>
+    
+    <string name="reminders">Hatirlaticilar</string>
+    <string name="events">Etkinlikler</string>
+    <string name="onthisday">Tarihte Bugün</string>
+    <string name="saved">Kaydedilenler</string>
+    
+    <string name="prefs">Tercihler</string>
+    <string name="settings">Ayarlar</string>
+    <string name="helpfeed">Geri Bildirim</string>
+    <string name="bugs">Bir Hatayi Bildir</string>
+    
+    <!-- Twitter Drawer -->
+    <string name="discover">Kesfet</string>
+    <string name="connect">Baglan</string>
+    <string name="twitter_search">Ara</string>
+    <string name="twitter_home">Ana Sayfa</string>
+    <string name="twitter_me">Ben</string>
+    <string name="switch_to_folio">Folio\'ya Gec</string>
+    <string name="switch_to_twitter">Twitter\'a Gec</string>
+    <string name="switch_to_gplus">Google+\'a Gec</string>
+    <string name="switch_to_gram">Instagram\'a Gec</string>
+    <string name="switch_to_tum">Tumblr\'a Gec</string>
+    
+    <!-- Add ons -->
+    <string name="addons">Sosyal Eklentiler</string>
+    <string name="addons_hint">Twitter eklentisi icin Twitter Add-on Key gereklidir.</string>
+    <string name="enable_twitter">Twitter\'i Etkinlestir</string>
+    <string name="enable_google">Google+ kaldir</string>
+    <string name="enable_instagram">Instagram kaldir</string>
+    <string name="enable_tumblr">Tumblr kaldir</string>
+    
+    <!-- Removals -->
+    <string name="navigation_pref">Soldan acilan menü ayarlari</string>
+    <string name="navigation_pref_hint">Soldan acilan menüyü Folio\'da kullanmadiginiz araclari kaldirarak düzenleyin.</string>
+    <string name="recent_nav">En Yenileri kaldir</string>
+    <string name="top_nav">Baslica Haberleri kaldir</string>
+    <string name="facebook_nav">Mesajlari kaldir</string>
+    <string name="trending_nav">Popüleri kaldir</string>
+    <string name="friends_nav">Arkadaslari kaldir</string>
+    <string name="groups_nav">Gruplari kaldir</string>
+    <string name="pages_nav">Sayfalari kaldir</string>
+    <string name="photos_nav">Fotograflari kaldir</string>
+    <string name="events_nav">Etkinlikleri kaldir</string>
+    <string name="onday_nav">Tarihte Bugünü kaldir</string>
+    <string name="saved_nav">Kaydedilenleri kaldir</string>
+    
+    <!-- News Feed -->
+    <string name="news_feed_preferences">Haber Akisi Tercihi</string>
+    <string name="top_always">Baslica Haberler</string>
+    <string name="top_always_hint">Her zaman Folio acilinca Baslica Haberleri gosterir.</string>
+    
+    <!-- Fonts -->
+    <string name="font_preference">Facebook Font Tercihi</string>
+    <string name="larger_font_hint">Facebook font büyüklügünü arttirarak okunulabilirligi arttirir. Yazi tipi tercihinin calismasi icin diger boyutlari devre disi birakin.</string>
+    <string name="font_set">Folio\'yu secilen font büyüklügüyle yeniden baslat.</string>
+    <string name="default_font">Normal Font</string>
+    <string name="medium_font">Orta Font</string>
+    <string name="large_font">Büyük Font</string>
+    <string name="xl_font">Extra Büyük Font</string>
+    <string name="xxl_font">Extra-Extra Büyük Font</string>
+    
+    <string-array name="font_choice">
+       	<item>Normal Font</item>
+       	<item>Kücük Font</item>
+        <item>Orta Font</item>
+        <item>Büyük Font</item>
+        <item>Extra Büyük Font</item>
+        <item>Extra Extra Büyük Font</item>
+               
+    </string-array>
+    
+    
+    
+    
+    <!-- Overflow Menu Folio -->
+    <string name="top">En Basa Git</string>
+    <string name="fb_settings">Facebook Ayarlari</string>
+    <string name="fb_chat">Aktif Arkadaslar</string>
+    <string name="fb_recent">En Yeniler</string>
+    <string name="refresh">Yenile</string>
+    <string name="notifications">Bildirimler</string>
+    <string name="notifications_about_hint">Bildirimleri ayarla.</string>
+    <string name="search">Facebook\'ta Ara</string>
+    
+    
+   	
+	
+    <!-- Save Image On Long Press  & Sharing-->
+    <string name="saveFolio">Resmi Kaydet</string>
+    <string name="txt_save_image_success">Resim indiriliyor.</string>
+    <string name="txt_save_image_failed">Resim kaydedilemedi.</string>
+    <string name="share_action">Mevcut sayfayi paylas</string>
+    <string name="share_action_subject">Facebook sayfasi</string>
+    
+    <!-- Save Image On Long Press -->
+    
+    
+    <string name="get_started">Facebook\'la Giris Yap</string>
+    <string name="send_feedback">Folio Geri Bildirim</string>
+    <string name="ok">Tamam</string>
+    <string name="applying_changes">Veriler temizleniyor. Folio\'yu kapatip acin.</string>
+      
+    
+    <string name="cancel">Iptal et</string>
+    
+    
+    <!-- Don\'t Know Why I\'m Giving A Choice Here But...-->
+    
+    <string name="site_preference">Facebook Modu Sec (BETA)</string>
+    <string name="site_preference_hint">Mevcut Mod: %s.</string>
+    
+    
+    <string name="default_mode">Facebook Mobil</string>
+    <string name="basic_mode">Facebook Temel</string>
+    <string name="desktop_mode">Masaüstü Modu</string>        
+
+	<string name="copyright">\u00A9 2015 Creative Trends Apps LLC.</string>
+	<string name="allrights">Bütün haklari saklidir.</string>
+	
+	<string name="about_image">Image Credit: Facebook icin Klyph</string>
+	
+    
+     <!-- Random Strings Part 1 -->
+     
+    <string name="fb_offline">Hata</string>
+    <string name="cancelled">Iptal edildi</string>    
+    <string name="permission_not_granted">Eylem gerceklestirilemedi cünkü izin alinmamis.</string>
+    <string name="image_chooser">Resim Secici</string>
+    <string name="loading_link">Folio\'yla Aciliyor</string>   
+    <string name="author">Jorell Rutledge tarafindan yazildi</string>    
+    <string name="title_activity_settings">Ayarlar</string>        
+    <string name="title_activity_about">Folio hakkinda</string>
+    <string name="title_activity_about_hint">Folio hakkinda kullanilan dilleri arastir. GitHub\'dan kaynagi al, Facebook ve daha fazlasiyla bize katil.</string>
+    
+    <string name="email_author">Geri Bildirim Gonder</string>    
+    <string name="choose_email_client">E-mail Yazilimi Secin</string>    
+    <string name="no_network">Cevrimici degilsiniz.</string> <!-- You MUST include the \ in your translation. For example... ***You\'\re**** is spelled like that -->    
+       
+    <string name="share_link">Bunu paylas</string>    
+    <string name="long_clicks">Basili tutma</string>    
+    <string name="long_clicks_description">Resimleri kaydetmek icin basili tutun.</string>
+    
+            
+    <!-- Random Strings Part 2 -->
+    <string name="preference_category4">Folio Temalari</string>
+   
+    
+    
+    <string name="donate_jorell">Gelistirmeye destek ol &amp; Ozellikleri ac</string>
+    <string name="donate_jorell_description">Kodu devam ettirmeme yardim edin.</string>
+    <string name="donate_jorell_link" translatable="true">http://paypal.me/creativetrends</string>
+    <string name="donate_jorell_about">Bana bir kahve alin</string>
+   	
+   	
+    
+     <!-- Bottom Section of Credits-->
+    <string name="hardware_acceleration">Donanimsal Hizlandirma</string> 
+    <string name="credits_settings">Emegi Gecenler</string>
+    <string name="preference_category7">Kisisellestirmeler</string>
+    <string name="preference_about_category">Hakkinda</string>
+    <string name="preference_set_category">Her sey hazir mi?</string>
+    <string name="preference_donate_category">Folio Key satin al</string>
+    <string name="preference_rest_category">Folio\'yu varsayilan ayarlara cevir</string>
+    <string name="preference_category15">Folio Düzen Ayarlari</string>
+    <string name="preference_facebook_layouts">Facebook Düzen Ayarlari</string>
+    
+    <string name="fixed_nav">Düzeltilmis Facebook Bari</string>
+    <string name="fixed_nav_description">Facebook bari her zaman üstte durur.</string>
+    
+    <string name="credits_licenses">Folio\'da kullanilan lisanslari okumak icin buraya dokun.</string>
+    <string name="credits_licenses_description">Acik kaynak lisanslarini ac</string>
+    <string name="clear_cache">Veriyi Sil</string>  
+    
+    <string name="clear_cache_title">Emin misiniz?</string> 
+    <string name="clear_cache_message">Folio\'nun verisini silmek icin Tamam\'a basin. Bu ayrica cikis yapmaniza neden olur.</string> 
+      
+    <string name="clear_cache_description">Folio\'nun verisini silin.Bu ayrica cikis yapmaniza neden olur.</string> <!-- You MUST include the \ in your translation. For example... ***You\'re**** is spelled like that -->
+        
+    <string name="preferences_feedback">Geri bildirim gonder</string>
+    <string name="preferences_feedback_description">Sorunuz mu var?Yardima mi ihtiyaciniz var?E-mail gondermek icin buraya dokunun.</string>
+    <string name="preferences_feedback_link" translatable="true">mailto:creativetrendzappsllc@gmail.com?Subject=Folio</string>
+    
+    <string name="preferences_rate">Folio\'yu degerlendirerek digerlerine yardimci olun</string>
+    <string name="preferences_rate_hint">Folio\'yu Google Play\'de degerlendirin</string>
+    <string name="preferences_rate_description">Folio\'yu degerlendir</string>
+    
+      
+    <string name="preferences_auto">Otomatik Kaydirma</string>
+    <string name="preferences_auto_hint">Otomatik kaydirma Facebook menüsünü gizler</string>
+    
+    
+    
+    
+    
+    <!-- All About Credits -->
+        
+    <string name="preference_category6">Emegi Gecenler</string>
+    
+    <string name="credits_bejan">Bejan Kanga</string>
+    <string name="credits_bejan_description">Folio\'da kullanilan ikonlar icin,Ayrica bazi soldan acilan menü ikonlari icin.Ayrica orijinal FrontPage uygulamasinin gelistirilmesinde yardimi icin. Sitesini ziyaret etmek icin dokunun.</string>
+    <string name="credits_bejan_link" translatable="true">http://bejank.com</string>
+    
+    <string name="credits_nam">Nam Nghiem</string>
+    <string name="credits_nam_description">Kapak fotograflariyla ilgili yardimi icin.Onun Facebook yazilimini kontrol edin.</string>
+    <string name="credits_nam_link" translatable="true">https://play.google.com/store/apps/details?id=com.nam.fbwrapper&amp;hl=en</string>
+    
+    
+    <string name="credits_beta">Facebook Grubu</string>
+    <string name="credits_beta_description">Creative Trends Beta\'ya Facebook\'ta katilin.</string>
+    <string name="credits_beta_link" translatable="true">https://www.facebook.com/groups/creativtrendz/</string>
+    
+    
+    <string name="credits_google_plus">Google+</string>
+    <string name="credits_google_plus_description">Facebook icin Folio\'ya Google+\'da katilin</string>
+    <string name="credits_google_plus_link" translatable="true">https://plus.google.com/communities/116238843585710616103</string>
+    
+    
+    
+    
+    <string name="credits_janae">Janae</string>
+    <string name="credits_janae_description">Teknolojiyle ilgisini paylastigi ve babasi calisirken sabirli oldugu icin.</string>
+    
+    
+    <string name="credits_tykeshia">Tykeshia</string>
+    <string name="credits_tykeshia_description">Gecen yillarda destekleyici ve cesaretlendirici oldugu icin. Bilgisayarini odünc almama izin verdigin icin tesekkürler.</string>
+    
+    
+    <string name="credits_facebook">Facebook Inc.</string>    
+    <string name="credits_facebook_description">Yeni grafik API\'leri icin. Ayrica Folio\'da kullanilan mobil siteleri icin. </string>
+    <string name="credits_facebook_link" translatable="true">http://m.facebook.com</string>
+    
+    <string name="credits_google">Google Inc.</string>
+    <string name="credits_google_description">AppCompat v7 icin, Ayrica Materyal Dizayn ikonlarini paylastiklari icin.</string>
+    <string name="credits_google_link" translatable="true">https://developer.android.com/tools/support-library/features.html</string>
+    
+    
+    <string name="preference_category10">Kullanilan kaynak yazilimlari acin</string>
+    <string name="preference_category8">Kaynak lisanslarini acin</string> 
+     
+    <string name="credits_tray">Tray Tercihleri</string>
+    <string name="credits_tray_description">Projeyi incelemek icin dokunun.</string>
+    <string name="credits_tray_link" translatable="true">https://github.com/grandcentrix/tray</string>
+    
+    
+    <string name="credits_material">Folio for Facebook</string>
+    <string name="credits_material_description">Projeyi incelemek icin dokunun.</string>
+    <string name="credits_material_link" translatable="true">https://github.com/creativetrendsapps/Folioforfacebook</string>
+    
+        
+    <string name="credits_preferences">Material Preference Compat</string>
+    <string name="credits_preferences_description">Projeyi incelemek icin dokunun.</string>
+    <string name="credits_preferences_link" translatable="true">https://github.com/fython/MaterialPreferenceCompat</string>
+    
+    
+    
+    <!-- All About Translations  -->
+    
+    <string name="preference_category12">Ceviriler</string> 
+           
+    <string name="credits_italian">Fabio Catinella</string>
+    <string name="credits_italian_description">Italyanca</string>
+    
+    <string name="credits_spanish">Marco Rubio Asensio</string>
+    <string name="credits_spanish_description">Ispanyolca</string>
+    
+    <string name="credits_german">Clemens Corell</string>
+    <string name="credits_german_description">Almanca</string>
+    
+    <string name="credits_brazilian">Vinícius Rubens Pedrinho</string>
+    <string name="credits_brazilian_description">Portekizce</string>
+    
+    <string name="credits_trukish">Vinícius Rubens Pedrinho</string>
+    <string name="credits_trukish_description">Português de Brasil</string>
+    
+    <string name="help_trans">Ceviriye yardim et</string>
+    <string name="help_trans_hint">Folio\'yu kendi dilinize cevirmeye yardim etmek icin dokunun.</string>
+   
+    
+        
+    
+    
+    
+    
+    
+    <!-- All About Notifications -->
+    
+    <string name="preference_category5">Genel</string>
+    <string name="activate_notifications">Facebook Bildirimleri</string>
+    <string name="activate_messages">Mesaj Bildirimleri</string>
+    <string name="activate_friends">Arkadaslik Istegi Bildirimleri</string>    
+    <string name="notifications_service_created">Bildirimler aktif edildi</string>
+    <string name="notifications_settings">Bildirimler</string>
+    <string name="all_notifications">Bütün Bildirimleri Goster</string>
+    <string name="all_messages">Mesajlari Goster</string>
+    <string name="all_requests">Arkadaslik Isteklerini Goster</string>
+    <string name="notification_sound">Bildirim Sesi</string>
+    <string name="notification_sound_description">Mevcut: \u0020</string>
+    <string name="message_sound">Mesaj Bildirim Sesi</string>
+    <string name="message_sound_description">Mevcut: \u0020</string>
+    <string name="silent">Sessiz</string>
+    <string name="vibrate">Titresim</string>
+    <string name="led_light">Bildirim LEDi</string>
+    <string name="notifications_extra">Ekler</string>
+    <string name="notifications_everywhere">Her zaman bildirim gelsin</string>
+    <string name="notifications_everywhere_description">Folio\'yu kullanirken bile.</string>
+    <string name="get_key">https://play.google.com/store/apps/details?id=com.creativetrends.folio.app.key</string>
+    <string name="get_app_store">https://play.google.com/store/apps/details?id=com.creativetrends.folio.app</string>
+    
+   	
+	
+	<string name="friend_request">&#160;yeni arkadaslik istegi</string>
+	<string name="friend_requests">&#160;yeni arkadaslik istekleri</string>
+	
+	<string name="new_notification">&#160;yeni bildirim</string>
+	<string name="new_notifications">&#160;yeni bildirimler</string>
+	
+		
+	
+             
+    <!-- ALL ABOUT THEMES-->
+    
+    
+    <string name="choose_font_facebook">Facebook Font Büyüklügü</string>
+    <string name="choose_font_facebook_hint">Mevcut Font Büyüklügü: %s</string>
+    
+    
+   <string name="preference_category3">Facebook Temalari</string>
+    
+    <string name="dark_theme">Siyah Tema</string>
+    
+    <string name="dark_theme_description">Siyah temayi etkinlestir.</string>
+    
+    <string name="red_theme">Android Stüdyo Temasi</string>
+    
+    <string name="red_theme_description">Dracula temayi etkinlestir.</string>
+     
+    
+          
+          
+   	<string-array name="pref_theme_entries">
+        <item>Folio temasi</item>
+        <item>Folio temasi,siyah menülü</item>
+        <item>Pembe tema</item>
+        <item>Pembe tema,siyah menülü</item>
+        <item>Mor tema</item>
+        <item>Mor tema,siyah menülü</item>
+        <item>Koyu mor tema</item>
+        <item>Koyu mor tema,siyah menülü</item>
+        <item>Siyah tema</item>
+        <item>Turuncu tema</item>
+        <item>Turuncu tema,siyah menülü</item>
+        <item>Koyu turuncu tema</item>
+        <item>Koyu turuncu tema,siyah menülü</item>
+        <item>Falcon temasi</item>
+        <item>Falcon temasi,siyah menülü</item>
+        <item>Limon temasi</item>
+        <item>Limon temasi,siyah menülü</item>
+        <item>Yesil tema</item>
+        <item>Yesil tema,siyah menülü</item>
+        <item>Acik yesil tema</item>
+        <item>Acik yesil tema,siyah menülü</item>
+        <item>Amber temasi</item>
+        <item>Amber temasi,siyah menülü</item>
+        <item>Sari tema</item>
+        <item>Sari tema,siyah menülü</item>
+        <item>Kirmizi tema</item>
+        <item>Kirmizi tema,siyah menülü</item>
+        <item>Mavi tema</item>
+        <item>Mavi tema,siyah menülü</item>
+        <item>Acik mavi tema</item>
+        <item>Acik mavi tema,siyah menülü</item>
+        <item>Gökmavisi tema</item>
+        <item>Gökmavisi tema,siyah menülü</item>
+        <item>Koyu mavi tema</item>
+        <item>Koyu mavi tema,siyah menülü</item>
+        <item>Kahverengi tema</item>
+        <item>Kahverengi tema,siyah menülü</item>
+        <item>Gri tema</item>
+        <item>Gri tema,siyah menülü</item>
+        <item>Mavi-gri tema</item>
+        <item>Mavi-gri tema,siyah menülü</item>
+        
+            
+        
+        
+    </string-array>
+    
+   	
+   	   
+   	
+   	<string-array name="pref_theme_fb_entries">
+    <item>Facebook Temasi</item>              
+   	<item>Siyah Tema</item>
+   	<item>Dracula Temasi</item>
+   	<item>Folio Temasi</item>   
+        
+    </string-array>
+
+   	
+   	<string name="quick_bar">Hizli Menü</string>
+   	<string name="quick_bar_hint">Folio Hizli Menüyü goster?</string>
+   	
+   	<string name="quick_bar_on">Hizli Menü acik.</string>
+   	
+   	<string name="quick_bar_off">Hizli Menü kapali.</string>
+   	
+   	       
+    <string name="no_images">Resimleri devre disi birak</string>
+    <string name="no_images_hint">Resimleri kapatarak veri kullanimini azalt.</string>
+      
+        
+    <string name="hide_bar">Facebook Bar\'ini kaldir</string>
+    
+    
+    <string name="choose_theme_folio">Uygulama Temasi Sec</string>
+    <string name="choose_theme_facebook">Facebook Temasi Sec</string>
+    <string name="choose_theme_folio_hint">Mevcut Tema: %s</string>
+      
+    
+    <string name="hidden_bar">Arac Cubugunu Gizle</string>
+    
+   <string name="sync_problem">Hay aksi! Bir hata olustu. Folio bildirimleri alamiyor. Lütfen Folio\'yu kapatip tekrar acin.</string>
+   
+   <string name="you_have_one_message">1 yeni mesajiniz var</string>
+  <string name="you_have_n_messages">%d yeni mesajiniz var</string>
+  
+  	<string name="file_logger">Günlükleri bir dosyaya kaydet</string>
+    <string name="file_logger_description">Bildirim servisi günlüklerini hafizaya kaydet. Bu depolama izni gerektirir.</string>
+    <string name="file_logger_needs_permission">Hafizaya erisilemiyor. Günlük kaydedilemedi.</string>
+    
+    
+         
+    <string name="interval_pref">Senkronize servisi</string>
+    <string name="interval_pref_description">Bildirimler her %s kontrol edilecek.</string>
+          
+                 
+            
+    
+    
+    <string name="not_valid_title">Gecerli Degil</string>
+    <string name="not_valid_message">Folio\'nun bu versiyonu Google Play Store\'dan degil ve islevsiz olacak.</string>
+    <string name="get_from_play">Google Play</string>
+    
+    <string name="people_you">Taniyor Olabileceginiz Kisiler</string>
+    <string name="people_you_hint">Taniyor olabileceginiz kisileri gizle. (BETA)</string>
+    
+    <string name="download_manager_disabled">Indirme Yoneticisi devre disi. Lütfen etkinlestirin.</string>
+    <string name="cannot_access_storage">Hafizaya erisilemiyor</string>
+    <string name="file_cannot_be_saved">Bir dosya kaydedilemedi</string>
+    <string name="camera_exception">Kamerayla ilgili sorun var</string>
+
+
+    <string name="open_link_title">Chrome Custom Tabs</string>
+    <string name="open_link_hint">Open external links in Chrome Custom Tabs?</string>
+
+    <string name="addPage">Add to Favorites</string>
+    <string name="removePage">Remove from Favorites</string>
+
+    <string name="remember_title">News Feed Position (Beta)</string>
+    <string name="remember_hint">Remember your News Feed position.</string>
+
+    <string name="faq">FAQ\'s</string>
+
+    <string name="notify_log">Notification Log</string>
+    <string name="notify_log_hint">Save diagnostic notifications log? This doesn\'t allow Folio to collect any personal information.</string>
+
+    <string name="btn_chioce">Pick(%d)</string>
+
+    <string name="offline_folio">Enable Offline Mode</string>
+    <string name="offline_folio_hint">Save your browsing data?</string>
+
+    <string name="folio_lock">Enable Folio Lock</string>
+    <string name="folio_lock_hint">Use your fingerprint or a passcode to lock/unlock Folio?</string>
+
+    <string name="folio_message_bubble">Message Bubbles</string>
+    <string name="folio_message_bubble_hint">Turn on Message Bubbles?</string>
+
+    <string name="folio_video">Upload video</string>
+    <string name="folio_checkins">Check-in</string>
+    <string name="folio_tags">Tag a friend</string>
+    <string name="folio_images">Upload image from gallery</string>
+
+    <string name="not_found_offline" formatted="false"><![CDATA[<div style=\"position: absolute;top: 50%;left: 50%;transform: translateX(-50%) translateY(-50%);\"><div><h1>Unfortunately this page was not found in offline mode</h1></div></div>]]></string>
+    <string name="loading_offline_database">Loading page offline</string>
+    <string name="offline_database_empty">No offline pages found</string>
+
+    <string name="unlock_text">Please Enter Lock Code</string>
+    <string name="lock_abort">Cancel</string>
+    <string name="lock_pin">lock code</string>
+    <string name="lock_text">Secure Folio with a lock code</string>
+    <string name="lock_confirm">confirm lock code</string>
+    <string name="lock_wrong">Lock code incorrect</string>
+    <string name="lock_empty">Lock code cannot be blank</string>
+</resources>
