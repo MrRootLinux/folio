@@ -160,7 +160,7 @@
 
     <!-- Save Image On Long Press -->
 
-    <string name="facebook_app_id">691828467548980</string>
+
     <string name="get_started">Prijavite se sa Facebookom</string>
     <string name="send_feedback">Folio povratne informacije</string>
     <string name="ok">OK</string>
@@ -330,30 +330,6 @@
 
     <string name="preference_category12">Prijevodi</string>
 
-    <string name="credits_italian">Fabio Catinella</string>
-    <string name="credits_italian_description">Talijanski</string>
-
-    <string name="credits_spanish">Marco Rubio Asensio</string>
-    <string name="credits_spanish_description">Španjolski</string>
-
-    <string name="credits_german">Clemens Corell</string>
-    <string name="credits_german_description">Njemački</string>
-
-    <string name="credits_brazilian">Vinícius Rubens Pedrinho</string>
-    <string name="credits_brazilian_description">Português de Brasil</string>
-
-    <string name="credits_turk">Mehmet Çalışkan</string>
-    <string name="credits_turk_description">Turski</string>
-
-    <string name="credits_fren">Jean Philippe</string>
-    <string name="credits_fren_description">Francuski</string>
-
-    <string name="credits_pol">seba112</string>
-    <string name="credits_pol_description">Poljski</string>
-
-    <string name="credits_rom">Iulian Szidelo</string>
-    <string name="credits_rom_description">Rumunjski</string>
-
     <string name="help_trans">Pomozite u prijevodu</string>
     <string name="help_trans_hint">Pritisnite kako bi preveli Folio na svoj jezik.</string>
 
@@ -496,9 +472,12 @@
     <string name="hide_bar_hint">Kliznite od lijevog ruba zaslona kako bi pristupili Folio izborniku.</string>
 
 
-    <string name="choose_theme_folio">Odaberite temu aplikacije</string>
+    
     <string name="choose_theme_facebook">Odaberite Facebook temu</string>
+    <string name="choose_theme_facebook_hint">Trenutna tema: %s</string>
+    <string name="choose_theme_folio">Odaberite temu aplikacije</string>
     <string name="choose_theme_folio_hint">Trenutna tema: %s</string>
+
 
 
     <string name="hidden_bar">Sakrijte alatnu traku</string>
@@ -537,6 +516,7 @@
         <item>10800000</item>
         <item>21600000</item>
     </string-array>
+
 
     <string name="not_valid_title">Nije Valjan</string>
     <string name="not_valid_message">Ova verzija Folia nije sa Play Store-a i zato neće funkcionirati.</string>
