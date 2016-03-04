@@ -181,16 +181,11 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="desktop_mode">Modul desktop</string>        
   
     
-   
-    
-        
-    <string name="about_header">Open source licenses\nNotices for files</string>
-    
+
              
      <!-- OK To Translate-->
     
-	<string name="about_change_log"><b>Lista de modificari Folio</b></string>
-   
+
 	<string name="copyright">\u00A9 2015 Creative Trends Apps LLC.</string>
 	<string name="allrights">Toate drepturile rezervate.</string>
 	
@@ -199,8 +194,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     
      <!-- Random Strings Part 1 -->
      
-    <string name="fb_offline">Eroare</string>    
-    <string name="hello">Salut</string>    
+    <string name="fb_offline">Eroare</string>
     <string name="cancelled">S-a renuntat</string> 
     <string name="permission_not_granted">Nu se pot aplica actiunile selectate din cauza perimisiunilor insuficiente.</string>
     <string name="image_chooser">Alege aplicatia de vizualizare imagini</string>
@@ -335,29 +329,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     
     <string name="preference_category12">Traduceri</string> 
            
-    <string name="credits_italian">Fabio Catinella</string>
-    <string name="credits_italian_description">Italiana</string>
-    
-    <string name="credits_spanish">Marco Rubio Asensio</string>
-    <string name="credits_spanish_description">Spaniola</string>
-    
-    <string name="credits_german">Clemens Corell</string>
-    <string name="credits_german_description">Germana</string>
-    
-    <string name="credits_brazilian">Vinícius Rubens Pedrinho</string>
-    <string name="credits_brazilian_description">Portugheza</string>
-    
-    <string name="credits_turk">Mehmet Çalışkan</string>
-    <string name="credits_turk_description">Turca</string>
 
-    <string name="credits_fren">Jean Philippe</string>
-    <string name="credits_fren_description">Franceza</string>
-    
-    <string name="credits_pol">seba112</string>
-    <string name="credits_pol_description">Poloneza</string>
-   
-    <string name="credits_rom">Iulian Szidelo</string>
-    <string name="credits_rom_description">Romana</string>
     
     <string name="help_trans">Ajuta la traducere</string>
     <string name="help_trans_hint">Apasa aici pentru a traduce Folio in alta limba.</string>
@@ -503,6 +475,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     
     <string name="choose_theme_folio">Alege tema Folio</string>
     <string name="choose_theme_facebook">Alege tema Facebook</string>
+    <string name="choose_theme_facebook_hint">Tema curenta: %s</string>
     <string name="choose_theme_folio_hint">Tema curenta: %s</string>
       
     
@@ -566,7 +539,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="folio_message_bubble">Bulele de mesagerie</string>
     <string name="folio_message_bubble_hint">Activez bulele de mesagerie?</string>
 
-    <string name="folio_video"Incarca fisier video</string>
+    <string name="folio_video">Incarca fisier video</string>
     <string name="folio_checkins">Localizeaza-te</string>
     <string name="folio_tags">Marcheaza un prieten</string>
     <string name="folio_images">Incarca o imagine din galerie</string>
@@ -582,4 +555,4 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="lock_confirm">Confirma codul de blocare</string>
     <string name="lock_wrong">Cod de blocare incorect</string>
     <string name="lock_empty">Codul de blocare nu poate fi gol</string>
-</resources>
+    </resources>
