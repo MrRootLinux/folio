@@ -24,7 +24,7 @@
     <!-- Save Image On Long Press -->
     <string name="customize_folio">Prilagodite Folio</string>
     <string name="customize_folio_hint">Promijenite izgled i raspored.</string>
-    <string name="tap_to_set">Dodirnite za primjenu promjena</string>
+    <string name="tap_to_set">Dodirnite za primjenu promjena.</string>
 
     <string name="status_updated">Status je ažuriran.</string>
 
@@ -238,7 +238,7 @@
 
     <string name="credits_licenses">Pritisnite ovdje kako bi ste pročitali više o licencama korištenim u Foliu.</string>
     <string name="credits_licenses_description">Open source software licenses</string>
-    <string name="clear_cache">Clear Data</string>
+    <string name="clear_cache">Očisti podatke</string>
 
     <string name="clear_cache_title">Jeste li sigurni?</string>
     <string name="clear_cache_message">Pritisnite OK za uklanjanje Foliovih podataka. Ovo će vas odjaviti.</string>
@@ -497,8 +497,8 @@
 
 
     <string name="choose_theme_folio">Odaberite temu aplikacije</string>
-    <string name="choose_theme_facebook">Odaberite Facebook Temu</string>
-    <string name="choose_theme_folio_hint">Trenutna Tema: %s</string>
+    <string name="choose_theme_facebook">Odaberite Facebook temu</string>
+    <string name="choose_theme_folio_hint">Trenutna tema: %s</string>
 
 
     <string name="hidden_bar">Sakrijte alatnu traku</string>
