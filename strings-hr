@@ -250,12 +250,12 @@
     <string name="preferences_feedback_link" translatable="true">mailto:creativetrendzappsllc@gmail.com?Subject=Folio</string>
 
     <string name="preferences_rate">Pomozite ostalima ocjenjivanjem Folia</string>
-    <string name="preferences_rate_hint">Ocjenite Folio na Google Playu</string>
-    <string name="preferences_rate_description">Ocjenite Folio</string>
+    <string name="preferences_rate_hint">Ocijenite Folio na Google Playu</string>
+    <string name="preferences_rate_description">Ocijenite Folio</string>
 
 
-    <string name="preferences_auto">Automatsko listanje</string>
-    <string name="preferences_auto_hint">Automatsko listanje kako bi sakrili Facebookov izbornik?</string>
+    <string name="preferences_auto">Omogući Folio alatnu traku</string>
+    <string name="preferences_auto_hint">Ovo će sakriti Facebookovu navigacijsku traku.</string>
 
 
 
