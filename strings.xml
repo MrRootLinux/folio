@@ -37,6 +37,7 @@
     <string name="folio_checkins">Check-in</string>
     <string name="folio_tags">Tag a friend</string>
     <string name="folio_images">Upload image from gallery</string>
+    <string name="update_share">Share Now</string>
     <string name="update_status">Post Status</string>
     <string name="update_photo">Add Photos</string>
     <string name="show_fab">Display a FAB</string>
