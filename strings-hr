@@ -89,7 +89,6 @@
     <string name="navigation_pref_hint">Prilagodite navigacijsku ladicu uklanjanjem stavki koje ne koristite u Foliu.</string>
     <string name="recent_nav">Ukloni Vijesti</string>
     <string name="top_nav">Ukloni Bilješke</string>
-    <string name="facebook_nav">Ukloni Poruke</string>
     <string name="trending_nav">Ukloni Popularne vijesti</string>
     <string name="friends_nav">Ukloni Prijatelje</string>
     <string name="groups_nav">Ukloni Grupe</string>
