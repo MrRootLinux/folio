@@ -9,7 +9,7 @@
     <string name="app_name">Folio</string>
     <string name="app_name_toolbar">Folio</string>
     <string name="app_name_about">Folio für Facebook</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Einstellungen</string>
     <string name="closeDrawer">Navigationsansicht</string>
     <string name="openDrawer">Linke Navigationsleiste öffnen</string>
     <string name="facebook_app_id">749196541804006</string>
@@ -188,8 +188,8 @@
     <string name="clear_cache_title">Bist du sicher?</string>
     <string name="clear_cache_message">OK klicken um Folios Daten zu löschen. Diese Option meldet dich außerdem ab.</string>
     <string name="clear_cache_description">Folios Daten löschen. Diese Option meldet dich außerdem ab.</string>
-    <string name="people_you">Leute, welche du kennen könntest</string>
-    <string name="people_you_hint">Verstecke \"Leute, welche du kennen könntest\". (BETA)</string>
+    <string name="people_you">Leute, die du kennen könntest</string>
+    <string name="people_you_hint">Verstecke \"Leute, die du kennen könntest\". (BETA)</string>
 
     <string name="open_link_title">Chrome Custom Tabs</string>
     <string name="open_link_hint">Externe Links in benutzerdefinierten Chrome-Tabs öffnen?</string>
@@ -270,7 +270,7 @@
 
 <!-- Start Notifications -->
     <string name="interval_pref">Synchronisations-Intervall</string>
-    <string name="interval_pref_description">Benachrichtigungen werden in folgenden Apbständen überprüft. Alle: %s.</string>
+    <string name="interval_pref_description">Benachrichtigungen werden in folgenden Abständen überprüft. Alle: %s.</string>
     <string-array name="update_interval">
         <item>1 Minute</item>
         <item>5 Minuten</item>
