@@ -163,14 +163,14 @@
     <string name="preference_category15">Folio Layout Settings</string>
     <string name="preference_facebook_layouts">Facebook Layout Settings</string>
     <string name="preference_category3">Facebook Themes</string>
-    
+
     <string-array name="pref_theme_entries">
     <item>Folio Theme</item>
     <item>Pink Theme</item>
     <item>Dark Theme</item>
     <item>Blue Grey Theme</item>
     </string-array>
-    
+
     <string-array name="pref_theme_fb_entries">
     <item>Facebook Theme</item>
     <item>Black Theme</item>
@@ -367,7 +367,7 @@
 
     <!-- Start Ads -->
     <string name="ads_folio">Show Apps &amp; Games</string>
-    <string name="ads_folio_des">Display apps &amp; games at launch that may be of interest to you?. Apps &amp; games display as a popup and can be turned off at anytime.</string>
+    <string name="ads_folio_des">Display apps &amp; games at launch that may be of interest to you? Apps &amp; games can be turned off at anytime.</string>
     <!-- End Ads -->
 
     <!-- START OF LICENSES: DO NOT TRANSLATE LEAVE AS IS-->
@@ -646,4 +646,3 @@
 
 
 </resources>
-
